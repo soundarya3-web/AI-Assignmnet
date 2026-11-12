@@ -1,0 +1,4841 @@
+dataset,sample_no,prediction
+RuleTaker,1,False
+RuleTaker,2,False
+RuleTaker,3,True
+RuleTaker,4,True
+RuleTaker,5,True
+RuleTaker,6,True
+RuleTaker,7,False
+RuleTaker,8,False
+RuleTaker,9,False
+RuleTaker,10,True
+RuleTaker,11,True
+RuleTaker,12,True
+RuleTaker,13,True
+RuleTaker,14,True
+RuleTaker,15,True
+RuleTaker,16,True
+RuleTaker,17,True
+RuleTaker,18,False
+RuleTaker,19,False
+RuleTaker,20,True
+RuleTaker,21,False
+RuleTaker,22,True
+RuleTaker,23,True
+RuleTaker,24,True
+RuleTaker,25,True
+RuleTaker,26,True
+RuleTaker,27,True
+RuleTaker,28,False
+RuleTaker,29,True
+RuleTaker,30,True
+RuleTaker,31,True
+RuleTaker,32,False
+RuleTaker,33,True
+RuleTaker,34,True
+RuleTaker,35,True
+RuleTaker,36,True
+RuleTaker,37,True
+RuleTaker,38,True
+RuleTaker,39,False
+RuleTaker,40,False
+RuleTaker,41,True
+RuleTaker,42,False
+RuleTaker,43,True
+RuleTaker,44,False
+RuleTaker,45,True
+RuleTaker,46,False
+RuleTaker,47,True
+RuleTaker,48,True
+RuleTaker,49,True
+RuleTaker,50,True
+RuleTaker,51,False
+RuleTaker,52,True
+RuleTaker,53,True
+RuleTaker,54,True
+RuleTaker,55,False
+RuleTaker,56,True
+RuleTaker,57,False
+RuleTaker,58,True
+RuleTaker,59,False
+RuleTaker,60,False
+RuleTaker,61,True
+RuleTaker,62,False
+RuleTaker,63,False
+RuleTaker,64,True
+RuleTaker,65,True
+RuleTaker,66,False
+RuleTaker,67,False
+RuleTaker,68,False
+RuleTaker,69,False
+RuleTaker,70,False
+RuleTaker,71,True
+RuleTaker,72,True
+RuleTaker,73,True
+RuleTaker,74,True
+RuleTaker,75,True
+RuleTaker,76,True
+RuleTaker,77,True
+RuleTaker,78,False
+RuleTaker,79,False
+RuleTaker,80,True
+RuleTaker,81,False
+RuleTaker,82,False
+RuleTaker,83,False
+RuleTaker,84,True
+RuleTaker,85,True
+RuleTaker,86,True
+RuleTaker,87,False
+RuleTaker,88,False
+RuleTaker,89,False
+RuleTaker,90,True
+RuleTaker,91,False
+RuleTaker,92,True
+RuleTaker,93,True
+RuleTaker,94,True
+RuleTaker,95,True
+RuleTaker,96,True
+RuleTaker,97,False
+RuleTaker,98,True
+RuleTaker,99,True
+RuleTaker,100,True
+RuleTaker,101,False
+RuleTaker,102,True
+RuleTaker,103,True
+RuleTaker,104,True
+RuleTaker,105,True
+RuleTaker,106,True
+RuleTaker,107,True
+RuleTaker,108,True
+RuleTaker,109,True
+RuleTaker,110,True
+RuleTaker,111,True
+RuleTaker,112,True
+RuleTaker,113,False
+RuleTaker,114,True
+RuleTaker,115,True
+RuleTaker,116,True
+RuleTaker,117,False
+RuleTaker,118,True
+RuleTaker,119,True
+RuleTaker,120,True
+RuleTaker,121,True
+RuleTaker,122,True
+RuleTaker,123,False
+RuleTaker,124,True
+RuleTaker,125,True
+RuleTaker,126,True
+RuleTaker,127,True
+RuleTaker,128,True
+RuleTaker,129,True
+RuleTaker,130,False
+RuleTaker,131,True
+RuleTaker,132,True
+RuleTaker,133,True
+RuleTaker,134,False
+RuleTaker,135,True
+RuleTaker,136,False
+RuleTaker,137,False
+RuleTaker,138,True
+RuleTaker,139,True
+RuleTaker,140,True
+RuleTaker,141,True
+RuleTaker,142,True
+RuleTaker,143,False
+RuleTaker,144,True
+RuleTaker,145,True
+RuleTaker,146,True
+RuleTaker,147,False
+RuleTaker,148,False
+RuleTaker,149,False
+RuleTaker,150,False
+RuleTaker,151,False
+RuleTaker,152,True
+RuleTaker,153,True
+RuleTaker,154,False
+RuleTaker,155,False
+RuleTaker,156,True
+RuleTaker,157,False
+RuleTaker,158,False
+RuleTaker,159,False
+RuleTaker,160,False
+RuleTaker,161,False
+RuleTaker,162,False
+RuleTaker,163,False
+RuleTaker,164,False
+RuleTaker,165,True
+RuleTaker,166,True
+RuleTaker,167,True
+RuleTaker,168,True
+RuleTaker,169,True
+RuleTaker,170,True
+RuleTaker,171,False
+RuleTaker,172,False
+RuleTaker,173,True
+RuleTaker,174,True
+RuleTaker,175,False
+RuleTaker,176,False
+RuleTaker,177,False
+RuleTaker,178,True
+RuleTaker,179,True
+RuleTaker,180,True
+RuleTaker,181,True
+RuleTaker,182,False
+RuleTaker,183,True
+RuleTaker,184,False
+RuleTaker,185,False
+RuleTaker,186,True
+RuleTaker,187,True
+RuleTaker,188,True
+RuleTaker,189,False
+RuleTaker,190,False
+RuleTaker,191,False
+RuleTaker,192,False
+RuleTaker,193,False
+RuleTaker,194,False
+RuleTaker,195,True
+RuleTaker,196,False
+RuleTaker,197,True
+RuleTaker,198,True
+RuleTaker,199,True
+RuleTaker,200,True
+RuleTaker,201,False
+RuleTaker,202,True
+RuleTaker,203,True
+RuleTaker,204,True
+RuleTaker,205,True
+RuleTaker,206,True
+RuleTaker,207,True
+RuleTaker,208,True
+RuleTaker,209,True
+RuleTaker,210,False
+RuleTaker,211,False
+RuleTaker,212,True
+RuleTaker,213,False
+RuleTaker,214,False
+RuleTaker,215,False
+RuleTaker,216,True
+RuleTaker,217,True
+RuleTaker,218,False
+RuleTaker,219,True
+RuleTaker,220,True
+RuleTaker,221,True
+RuleTaker,222,True
+RuleTaker,223,False
+RuleTaker,224,True
+RuleTaker,225,True
+RuleTaker,226,False
+RuleTaker,227,False
+RuleTaker,228,True
+RuleTaker,229,True
+RuleTaker,230,True
+RuleTaker,231,True
+RuleTaker,232,True
+RuleTaker,233,True
+RuleTaker,234,False
+RuleTaker,235,False
+RuleTaker,236,True
+RuleTaker,237,False
+RuleTaker,238,False
+RuleTaker,239,True
+RuleTaker,240,False
+RuleTaker,241,False
+RuleTaker,242,True
+RuleTaker,243,False
+RuleTaker,244,True
+RuleTaker,245,False
+RuleTaker,246,True
+RuleTaker,247,False
+RuleTaker,248,True
+RuleTaker,249,True
+RuleTaker,250,True
+RuleTaker,251,False
+RuleTaker,252,True
+RuleTaker,253,True
+RuleTaker,254,False
+RuleTaker,255,True
+RuleTaker,256,True
+RuleTaker,257,False
+RuleTaker,258,True
+RuleTaker,259,True
+RuleTaker,260,True
+RuleTaker,261,False
+RuleTaker,262,False
+RuleTaker,263,False
+RuleTaker,264,True
+RuleTaker,265,True
+RuleTaker,266,False
+RuleTaker,267,True
+RuleTaker,268,False
+RuleTaker,269,True
+RuleTaker,270,True
+RuleTaker,271,True
+RuleTaker,272,False
+RuleTaker,273,True
+RuleTaker,274,True
+RuleTaker,275,True
+RuleTaker,276,False
+RuleTaker,277,False
+RuleTaker,278,True
+RuleTaker,279,True
+RuleTaker,280,True
+RuleTaker,281,False
+RuleTaker,282,False
+RuleTaker,283,False
+RuleTaker,284,True
+RuleTaker,285,True
+RuleTaker,286,True
+RuleTaker,287,True
+RuleTaker,288,True
+RuleTaker,289,False
+RuleTaker,290,False
+RuleTaker,291,True
+RuleTaker,292,True
+RuleTaker,293,True
+RuleTaker,294,True
+RuleTaker,295,True
+RuleTaker,296,False
+RuleTaker,297,True
+RuleTaker,298,False
+RuleTaker,299,True
+RuleTaker,300,True
+RuleTaker,301,False
+RuleTaker,302,True
+RuleTaker,303,False
+RuleTaker,304,True
+RuleTaker,305,False
+RuleTaker,306,False
+RuleTaker,307,True
+RuleTaker,308,False
+RuleTaker,309,True
+RuleTaker,310,False
+RuleTaker,311,True
+RuleTaker,312,False
+RuleTaker,313,False
+RuleTaker,314,False
+RuleTaker,315,False
+RuleTaker,316,True
+RuleTaker,317,True
+RuleTaker,318,True
+RuleTaker,319,True
+RuleTaker,320,False
+RuleTaker,321,True
+RuleTaker,322,False
+RuleTaker,323,False
+RuleTaker,324,True
+RuleTaker,325,True
+RuleTaker,326,False
+RuleTaker,327,True
+RuleTaker,328,True
+RuleTaker,329,True
+RuleTaker,330,True
+RuleTaker,331,True
+RuleTaker,332,True
+RuleTaker,333,False
+RuleTaker,334,True
+RuleTaker,335,True
+RuleTaker,336,True
+RuleTaker,337,True
+RuleTaker,338,False
+RuleTaker,339,True
+RuleTaker,340,False
+RuleTaker,341,False
+RuleTaker,342,False
+RuleTaker,343,False
+RuleTaker,344,True
+RuleTaker,345,True
+RuleTaker,346,False
+RuleTaker,347,False
+RuleTaker,348,False
+RuleTaker,349,True
+RuleTaker,350,True
+RuleTaker,351,False
+RuleTaker,352,False
+RuleTaker,353,False
+RuleTaker,354,False
+RuleTaker,355,False
+RuleTaker,356,False
+RuleTaker,357,True
+RuleTaker,358,True
+RuleTaker,359,True
+RuleTaker,360,True
+RuleTaker,361,False
+RuleTaker,362,True
+RuleTaker,363,True
+RuleTaker,364,False
+RuleTaker,365,True
+RuleTaker,366,False
+RuleTaker,367,True
+RuleTaker,368,False
+RuleTaker,369,False
+RuleTaker,370,True
+RuleTaker,371,True
+RuleTaker,372,True
+RuleTaker,373,True
+RuleTaker,374,False
+RuleTaker,375,False
+RuleTaker,376,False
+RuleTaker,377,True
+RuleTaker,378,True
+RuleTaker,379,False
+RuleTaker,380,True
+RuleTaker,381,False
+RuleTaker,382,True
+RuleTaker,383,True
+RuleTaker,384,True
+RuleTaker,385,True
+RuleTaker,386,True
+RuleTaker,387,False
+RuleTaker,388,False
+RuleTaker,389,True
+RuleTaker,390,True
+RuleTaker,391,True
+RuleTaker,392,True
+RuleTaker,393,False
+RuleTaker,394,True
+RuleTaker,395,True
+RuleTaker,396,True
+RuleTaker,397,False
+RuleTaker,398,True
+RuleTaker,399,True
+RuleTaker,400,False
+RuleTaker,401,True
+RuleTaker,402,False
+RuleTaker,403,False
+RuleTaker,404,True
+RuleTaker,405,False
+RuleTaker,406,True
+RuleTaker,407,True
+RuleTaker,408,False
+RuleTaker,409,False
+RuleTaker,410,False
+RuleTaker,411,False
+RuleTaker,412,True
+RuleTaker,413,True
+RuleTaker,414,False
+RuleTaker,415,False
+RuleTaker,416,True
+RuleTaker,417,True
+RuleTaker,418,True
+RuleTaker,419,True
+RuleTaker,420,True
+RuleTaker,421,False
+RuleTaker,422,True
+RuleTaker,423,False
+RuleTaker,424,True
+RuleTaker,425,True
+RuleTaker,426,True
+RuleTaker,427,True
+RuleTaker,428,True
+RuleTaker,429,False
+RuleTaker,430,True
+RuleTaker,431,True
+RuleTaker,432,True
+RuleTaker,433,False
+RuleTaker,434,False
+RuleTaker,435,True
+RuleTaker,436,False
+RuleTaker,437,True
+RuleTaker,438,False
+RuleTaker,439,True
+RuleTaker,440,True
+RuleTaker,441,True
+RuleTaker,442,True
+RuleTaker,443,True
+RuleTaker,444,True
+RuleTaker,445,False
+RuleTaker,446,False
+RuleTaker,447,False
+RuleTaker,448,True
+RuleTaker,449,True
+RuleTaker,450,False
+RuleTaker,451,True
+RuleTaker,452,False
+RuleTaker,453,True
+RuleTaker,454,True
+RuleTaker,455,False
+RuleTaker,456,True
+RuleTaker,457,False
+RuleTaker,458,False
+RuleTaker,459,False
+RuleTaker,460,True
+RuleTaker,461,False
+RuleTaker,462,True
+RuleTaker,463,False
+RuleTaker,464,True
+RuleTaker,465,True
+RuleTaker,466,False
+RuleTaker,467,False
+RuleTaker,468,True
+RuleTaker,469,False
+RuleTaker,470,True
+RuleTaker,471,False
+RuleTaker,472,False
+RuleTaker,473,True
+RuleTaker,474,False
+RuleTaker,475,True
+RuleTaker,476,True
+RuleTaker,477,True
+RuleTaker,478,False
+RuleTaker,479,False
+RuleTaker,480,True
+RuleTaker,481,True
+RuleTaker,482,False
+RuleTaker,483,True
+RuleTaker,484,True
+RuleTaker,485,False
+RuleTaker,486,True
+RuleTaker,487,True
+RuleTaker,488,False
+RuleTaker,489,True
+RuleTaker,490,True
+RuleTaker,491,False
+RuleTaker,492,True
+RuleTaker,493,False
+RuleTaker,494,False
+RuleTaker,495,False
+RuleTaker,496,True
+RuleTaker,497,False
+RuleTaker,498,False
+RuleTaker,499,False
+RuleTaker,500,False
+RuleTaker,501,False
+RuleTaker,502,False
+RuleTaker,503,True
+RuleTaker,504,False
+RuleTaker,505,False
+RuleTaker,506,True
+RuleTaker,507,True
+RuleTaker,508,True
+RuleTaker,509,True
+RuleTaker,510,False
+RuleTaker,511,True
+RuleTaker,512,True
+RuleTaker,513,True
+RuleTaker,514,False
+RuleTaker,515,False
+RuleTaker,516,True
+RuleTaker,517,False
+RuleTaker,518,True
+RuleTaker,519,True
+RuleTaker,520,True
+RuleTaker,521,True
+RuleTaker,522,False
+RuleTaker,523,False
+RuleTaker,524,True
+RuleTaker,525,True
+RuleTaker,526,True
+RuleTaker,527,True
+RuleTaker,528,True
+RuleTaker,529,False
+RuleTaker,530,False
+RuleTaker,531,True
+RuleTaker,532,False
+RuleTaker,533,True
+RuleTaker,534,True
+RuleTaker,535,True
+RuleTaker,536,False
+RuleTaker,537,False
+RuleTaker,538,False
+RuleTaker,539,True
+RuleTaker,540,True
+RuleTaker,541,True
+RuleTaker,542,True
+RuleTaker,543,True
+RuleTaker,544,True
+RuleTaker,545,True
+RuleTaker,546,True
+RuleTaker,547,False
+RuleTaker,548,True
+RuleTaker,549,True
+RuleTaker,550,True
+RuleTaker,551,True
+RuleTaker,552,True
+RuleTaker,553,True
+RuleTaker,554,True
+RuleTaker,555,True
+RuleTaker,556,True
+RuleTaker,557,True
+RuleTaker,558,False
+RuleTaker,559,True
+RuleTaker,560,True
+RuleTaker,561,False
+RuleTaker,562,True
+RuleTaker,563,True
+RuleTaker,564,True
+RuleTaker,565,True
+RuleTaker,566,True
+RuleTaker,567,True
+RuleTaker,568,True
+RuleTaker,569,True
+RuleTaker,570,False
+RuleTaker,571,True
+RuleTaker,572,True
+RuleTaker,573,True
+RuleTaker,574,True
+RuleTaker,575,True
+RuleTaker,576,False
+RuleTaker,577,True
+RuleTaker,578,True
+RuleTaker,579,False
+RuleTaker,580,True
+RuleTaker,581,False
+RuleTaker,582,True
+RuleTaker,583,False
+RuleTaker,584,True
+RuleTaker,585,True
+RuleTaker,586,True
+RuleTaker,587,False
+RuleTaker,588,False
+RuleTaker,589,True
+RuleTaker,590,True
+RuleTaker,591,False
+RuleTaker,592,True
+RuleTaker,593,False
+RuleTaker,594,True
+RuleTaker,595,False
+RuleTaker,596,False
+RuleTaker,597,True
+RuleTaker,598,False
+RuleTaker,599,True
+RuleTaker,600,True
+RuleTaker,601,True
+RuleTaker,602,False
+RuleTaker,603,False
+RuleTaker,604,True
+RuleTaker,605,False
+RuleTaker,606,False
+RuleTaker,607,False
+RuleTaker,608,True
+RuleTaker,609,True
+RuleTaker,610,False
+RuleTaker,611,False
+RuleTaker,612,True
+RuleTaker,613,True
+RuleTaker,614,True
+RuleTaker,615,True
+RuleTaker,616,True
+RuleTaker,617,True
+RuleTaker,618,False
+RuleTaker,619,True
+RuleTaker,620,True
+RuleTaker,621,True
+RuleTaker,622,True
+RuleTaker,623,True
+RuleTaker,624,True
+RuleTaker,625,True
+RuleTaker,626,False
+RuleTaker,627,False
+RuleTaker,628,True
+RuleTaker,629,True
+RuleTaker,630,False
+RuleTaker,631,False
+RuleTaker,632,False
+RuleTaker,633,False
+RuleTaker,634,True
+RuleTaker,635,True
+RuleTaker,636,True
+RuleTaker,637,True
+RuleTaker,638,True
+RuleTaker,639,True
+RuleTaker,640,True
+RuleTaker,641,True
+RuleTaker,642,True
+RuleTaker,643,True
+RuleTaker,644,True
+RuleTaker,645,True
+RuleTaker,646,False
+RuleTaker,647,True
+RuleTaker,648,True
+RuleTaker,649,False
+RuleTaker,650,False
+RuleTaker,651,False
+RuleTaker,652,False
+RuleTaker,653,False
+RuleTaker,654,False
+RuleTaker,655,True
+RuleTaker,656,False
+RuleTaker,657,True
+RuleTaker,658,False
+RuleTaker,659,True
+RuleTaker,660,True
+RuleTaker,661,False
+RuleTaker,662,False
+RuleTaker,663,False
+RuleTaker,664,False
+RuleTaker,665,True
+RuleTaker,666,True
+RuleTaker,667,False
+RuleTaker,668,False
+RuleTaker,669,True
+RuleTaker,670,False
+RuleTaker,671,False
+RuleTaker,672,True
+RuleTaker,673,True
+RuleTaker,674,False
+RuleTaker,675,True
+RuleTaker,676,False
+RuleTaker,677,True
+RuleTaker,678,False
+RuleTaker,679,False
+RuleTaker,680,False
+RuleTaker,681,False
+RuleTaker,682,False
+RuleTaker,683,True
+RuleTaker,684,False
+RuleTaker,685,True
+RuleTaker,686,True
+RuleTaker,687,False
+RuleTaker,688,False
+RuleTaker,689,False
+RuleTaker,690,False
+RuleTaker,691,False
+RuleTaker,692,True
+RuleTaker,693,False
+RuleTaker,694,True
+RuleTaker,695,False
+RuleTaker,696,True
+RuleTaker,697,True
+RuleTaker,698,True
+RuleTaker,699,False
+RuleTaker,700,False
+RuleTaker,701,True
+RuleTaker,702,False
+RuleTaker,703,True
+RuleTaker,704,True
+RuleTaker,705,False
+RuleTaker,706,False
+RuleTaker,707,False
+RuleTaker,708,False
+RuleTaker,709,False
+RuleTaker,710,True
+RuleTaker,711,True
+RuleTaker,712,True
+RuleTaker,713,True
+RuleTaker,714,True
+RuleTaker,715,False
+RuleTaker,716,False
+RuleTaker,717,False
+RuleTaker,718,True
+RuleTaker,719,True
+RuleTaker,720,True
+RuleTaker,721,False
+RuleTaker,722,False
+RuleTaker,723,False
+RuleTaker,724,False
+RuleTaker,725,True
+RuleTaker,726,True
+RuleTaker,727,False
+RuleTaker,728,True
+RuleTaker,729,True
+RuleTaker,730,True
+RuleTaker,731,True
+RuleTaker,732,True
+RuleTaker,733,True
+RuleTaker,734,True
+RuleTaker,735,True
+RuleTaker,736,False
+RuleTaker,737,True
+RuleTaker,738,True
+RuleTaker,739,True
+RuleTaker,740,True
+RuleTaker,741,False
+RuleTaker,742,True
+RuleTaker,743,True
+RuleTaker,744,True
+RuleTaker,745,True
+RuleTaker,746,True
+RuleTaker,747,True
+RuleTaker,748,True
+RuleTaker,749,False
+RuleTaker,750,False
+RuleTaker,751,True
+RuleTaker,752,True
+RuleTaker,753,True
+RuleTaker,754,True
+RuleTaker,755,True
+RuleTaker,756,False
+RuleTaker,757,True
+RuleTaker,758,False
+RuleTaker,759,False
+RuleTaker,760,False
+RuleTaker,761,False
+RuleTaker,762,False
+RuleTaker,763,False
+RuleTaker,764,True
+RuleTaker,765,False
+RuleTaker,766,False
+RuleTaker,767,True
+RuleTaker,768,True
+RuleTaker,769,True
+RuleTaker,770,True
+RuleTaker,771,False
+RuleTaker,772,True
+RuleTaker,773,True
+RuleTaker,774,False
+RuleTaker,775,True
+RuleTaker,776,True
+RuleTaker,777,True
+RuleTaker,778,False
+RuleTaker,779,True
+RuleTaker,780,False
+RuleTaker,781,True
+RuleTaker,782,True
+RuleTaker,783,True
+RuleTaker,784,True
+RuleTaker,785,True
+RuleTaker,786,True
+RuleTaker,787,True
+RuleTaker,788,True
+RuleTaker,789,False
+RuleTaker,790,True
+RuleTaker,791,False
+RuleTaker,792,False
+RuleTaker,793,False
+RuleTaker,794,False
+RuleTaker,795,True
+RuleTaker,796,True
+RuleTaker,797,True
+RuleTaker,798,True
+RuleTaker,799,False
+RuleTaker,800,True
+RuleTaker,801,True
+RuleTaker,802,False
+RuleTaker,803,False
+RuleTaker,804,True
+RuleTaker,805,True
+RuleTaker,806,True
+RuleTaker,807,False
+RuleTaker,808,True
+RuleTaker,809,True
+RuleTaker,810,True
+RuleTaker,811,True
+RuleTaker,812,True
+RuleTaker,813,False
+RuleTaker,814,True
+RuleTaker,815,False
+RuleTaker,816,True
+RuleTaker,817,False
+RuleTaker,818,True
+RuleTaker,819,False
+RuleTaker,820,False
+RuleTaker,821,True
+RuleTaker,822,False
+RuleTaker,823,True
+RuleTaker,824,False
+RuleTaker,825,True
+RuleTaker,826,True
+RuleTaker,827,True
+RuleTaker,828,False
+RuleTaker,829,True
+RuleTaker,830,False
+RuleTaker,831,False
+RuleTaker,832,True
+RuleTaker,833,False
+RuleTaker,834,True
+RuleTaker,835,True
+RuleTaker,836,True
+RuleTaker,837,True
+RuleTaker,838,True
+RuleTaker,839,False
+RuleTaker,840,False
+RuleTaker,841,True
+RuleTaker,842,True
+RuleTaker,843,True
+RuleTaker,844,True
+RuleTaker,845,True
+RuleTaker,846,False
+RuleTaker,847,True
+RuleTaker,848,True
+RuleTaker,849,True
+RuleTaker,850,False
+RuleTaker,851,True
+RuleTaker,852,False
+RuleTaker,853,True
+RuleTaker,854,False
+RuleTaker,855,False
+RuleTaker,856,True
+RuleTaker,857,True
+RuleTaker,858,True
+RuleTaker,859,True
+RuleTaker,860,True
+RuleTaker,861,True
+RuleTaker,862,True
+RuleTaker,863,True
+RuleTaker,864,False
+RuleTaker,865,False
+RuleTaker,866,False
+RuleTaker,867,True
+RuleTaker,868,True
+RuleTaker,869,True
+RuleTaker,870,True
+RuleTaker,871,False
+RuleTaker,872,True
+RuleTaker,873,False
+RuleTaker,874,True
+RuleTaker,875,True
+RuleTaker,876,True
+RuleTaker,877,True
+RuleTaker,878,True
+RuleTaker,879,True
+RuleTaker,880,True
+RuleTaker,881,True
+RuleTaker,882,False
+RuleTaker,883,False
+RuleTaker,884,True
+RuleTaker,885,True
+RuleTaker,886,False
+RuleTaker,887,True
+RuleTaker,888,False
+RuleTaker,889,False
+RuleTaker,890,False
+RuleTaker,891,False
+RuleTaker,892,True
+RuleTaker,893,True
+RuleTaker,894,False
+RuleTaker,895,False
+RuleTaker,896,False
+RuleTaker,897,False
+RuleTaker,898,False
+RuleTaker,899,False
+RuleTaker,900,True
+RuleTaker,901,False
+RuleTaker,902,True
+RuleTaker,903,True
+RuleTaker,904,False
+RuleTaker,905,False
+RuleTaker,906,True
+RuleTaker,907,True
+RuleTaker,908,True
+RuleTaker,909,False
+RuleTaker,910,True
+RuleTaker,911,True
+RuleTaker,912,True
+RuleTaker,913,False
+RuleTaker,914,False
+RuleTaker,915,True
+RuleTaker,916,False
+RuleTaker,917,True
+RuleTaker,918,False
+RuleTaker,919,True
+RuleTaker,920,True
+RuleTaker,921,True
+RuleTaker,922,True
+RuleTaker,923,True
+RuleTaker,924,True
+RuleTaker,925,True
+RuleTaker,926,True
+RuleTaker,927,True
+RuleTaker,928,False
+RuleTaker,929,True
+RuleTaker,930,True
+RuleTaker,931,True
+RuleTaker,932,True
+RuleTaker,933,True
+RuleTaker,934,True
+RuleTaker,935,True
+RuleTaker,936,True
+RuleTaker,937,True
+RuleTaker,938,True
+RuleTaker,939,True
+RuleTaker,940,True
+RuleTaker,941,False
+RuleTaker,942,False
+RuleTaker,943,True
+RuleTaker,944,True
+RuleTaker,945,False
+RuleTaker,946,False
+RuleTaker,947,False
+RuleTaker,948,True
+RuleTaker,949,True
+RuleTaker,950,True
+RuleTaker,951,True
+RuleTaker,952,False
+RuleTaker,953,True
+RuleTaker,954,False
+RuleTaker,955,True
+RuleTaker,956,True
+RuleTaker,957,True
+RuleTaker,958,True
+RuleTaker,959,True
+RuleTaker,960,False
+RuleTaker,961,True
+RuleTaker,962,False
+RuleTaker,963,True
+RuleTaker,964,True
+RuleTaker,965,True
+RuleTaker,966,False
+RuleTaker,967,True
+RuleTaker,968,False
+RuleTaker,969,True
+RuleTaker,970,False
+RuleTaker,971,True
+RuleTaker,972,True
+RuleTaker,973,True
+RuleTaker,974,False
+RuleTaker,975,True
+RuleTaker,976,False
+RuleTaker,977,True
+RuleTaker,978,False
+RuleTaker,979,False
+RuleTaker,980,True
+RuleTaker,981,True
+RuleTaker,982,False
+RuleTaker,983,True
+RuleTaker,984,False
+RuleTaker,985,False
+RuleTaker,986,False
+RuleTaker,987,True
+RuleTaker,988,True
+RuleTaker,989,True
+RuleTaker,990,True
+RuleTaker,991,True
+RuleTaker,992,False
+RuleTaker,993,True
+RuleTaker,994,True
+RuleTaker,995,False
+RuleTaker,996,True
+RuleTaker,997,True
+RuleTaker,998,True
+RuleTaker,999,True
+RuleTaker,1000,True
+RuleTaker,1001,False
+RuleTaker,1002,False
+RuleTaker,1003,False
+RuleTaker,1004,False
+RuleTaker,1005,False
+RuleTaker,1006,False
+RuleTaker,1007,False
+RuleTaker,1008,False
+RuleTaker,1009,False
+RuleTaker,1010,False
+RuleTaker,1011,True
+RuleTaker,1012,False
+RuleTaker,1013,False
+RuleTaker,1014,False
+RuleTaker,1015,False
+RuleTaker,1016,False
+RuleTaker,1017,False
+RuleTaker,1018,False
+RuleTaker,1019,False
+RuleTaker,1020,False
+RuleTaker,1021,False
+RuleTaker,1022,False
+RuleTaker,1023,False
+RuleTaker,1024,False
+RuleTaker,1025,False
+RuleTaker,1026,False
+RuleTaker,1027,False
+RuleTaker,1028,False
+RuleTaker,1029,False
+RuleTaker,1030,False
+RuleTaker,1031,False
+RuleTaker,1032,False
+RuleTaker,1033,False
+RuleTaker,1034,False
+RuleTaker,1035,False
+RuleTaker,1036,False
+RuleTaker,1037,False
+RuleTaker,1038,False
+RuleTaker,1039,False
+RuleTaker,1040,False
+RuleTaker,1041,False
+RuleTaker,1042,False
+RuleTaker,1043,False
+RuleTaker,1044,False
+RuleTaker,1045,False
+RuleTaker,1046,False
+RuleTaker,1047,False
+RuleTaker,1048,False
+RuleTaker,1049,False
+RuleTaker,1050,False
+RuleTaker,1051,False
+RuleTaker,1052,False
+RuleTaker,1053,True
+RuleTaker,1054,True
+RuleTaker,1055,True
+RuleTaker,1056,True
+RuleTaker,1057,True
+RuleTaker,1058,True
+RuleTaker,1059,True
+RuleTaker,1060,True
+RuleTaker,1061,True
+RuleTaker,1062,True
+RuleTaker,1063,True
+RuleTaker,1064,True
+RuleTaker,1065,True
+RuleTaker,1066,True
+RuleTaker,1067,True
+RuleTaker,1068,True
+RuleTaker,1069,True
+RuleTaker,1070,True
+RuleTaker,1071,True
+RuleTaker,1072,True
+RuleTaker,1073,True
+RuleTaker,1074,True
+RuleTaker,1075,True
+RuleTaker,1076,True
+RuleTaker,1077,True
+RuleTaker,1078,True
+RuleTaker,1079,True
+RuleTaker,1080,True
+RuleTaker,1081,True
+RuleTaker,1082,True
+RuleTaker,1083,True
+RuleTaker,1084,True
+RuleTaker,1085,True
+RuleTaker,1086,True
+RuleTaker,1087,True
+RuleTaker,1088,True
+RuleTaker,1089,True
+RuleTaker,1090,True
+RuleTaker,1091,True
+RuleTaker,1092,True
+RuleTaker,1093,True
+RuleTaker,1094,True
+RuleTaker,1095,True
+RuleTaker,1096,True
+RuleTaker,1097,True
+RuleTaker,1098,True
+RuleTaker,1099,True
+RuleTaker,1100,True
+RuleTaker,1101,True
+RuleTaker,1102,True
+RuleTaker,1103,False
+RuleTaker,1104,False
+RuleTaker,1105,False
+RuleTaker,1106,False
+RuleTaker,1107,False
+RuleTaker,1108,False
+RuleTaker,1109,False
+RuleTaker,1110,False
+RuleTaker,1111,False
+RuleTaker,1112,True
+RuleTaker,1113,False
+RuleTaker,1114,False
+RuleTaker,1115,False
+RuleTaker,1116,False
+RuleTaker,1117,False
+RuleTaker,1118,False
+RuleTaker,1119,False
+RuleTaker,1120,False
+RuleTaker,1121,False
+RuleTaker,1122,False
+RuleTaker,1123,False
+RuleTaker,1124,True
+RuleTaker,1125,False
+RuleTaker,1126,False
+RuleTaker,1127,False
+RuleTaker,1128,False
+RuleTaker,1129,False
+RuleTaker,1130,True
+RuleTaker,1131,False
+RuleTaker,1132,False
+RuleTaker,1133,False
+RuleTaker,1134,False
+RuleTaker,1135,False
+RuleTaker,1136,False
+RuleTaker,1137,False
+RuleTaker,1138,False
+RuleTaker,1139,True
+RuleTaker,1140,False
+RuleTaker,1141,False
+RuleTaker,1142,False
+RuleTaker,1143,False
+RuleTaker,1144,True
+RuleTaker,1145,True
+RuleTaker,1146,True
+RuleTaker,1147,True
+RuleTaker,1148,True
+RuleTaker,1149,True
+RuleTaker,1150,True
+RuleTaker,1151,True
+RuleTaker,1152,True
+RuleTaker,1153,True
+RuleTaker,1154,True
+RuleTaker,1155,True
+RuleTaker,1156,True
+RuleTaker,1157,True
+RuleTaker,1158,True
+RuleTaker,1159,True
+RuleTaker,1160,True
+RuleTaker,1161,True
+RuleTaker,1162,True
+RuleTaker,1163,True
+RuleTaker,1164,True
+RuleTaker,1165,True
+RuleTaker,1166,True
+RuleTaker,1167,True
+RuleTaker,1168,True
+RuleTaker,1169,True
+RuleTaker,1170,True
+RuleTaker,1171,True
+RuleTaker,1172,True
+RuleTaker,1173,True
+RuleTaker,1174,True
+RuleTaker,1175,True
+RuleTaker,1176,True
+RuleTaker,1177,True
+RuleTaker,1178,True
+RuleTaker,1179,True
+RuleTaker,1180,True
+RuleTaker,1181,True
+RuleTaker,1182,True
+RuleTaker,1183,True
+RuleTaker,1184,True
+RuleTaker,1185,True
+RuleTaker,1186,True
+RuleTaker,1187,True
+RuleTaker,1188,True
+RuleTaker,1189,True
+RuleTaker,1190,True
+RuleTaker,1191,True
+RuleTaker,1192,True
+RuleTaker,1193,True
+RuleTaker,1194,True
+RuleTaker,1195,True
+RuleTaker,1196,True
+RuleTaker,1197,True
+RuleTaker,1198,True
+RuleTaker,1199,True
+RuleTaker,1200,True
+RuleTaker,1201,True
+RuleTaker,1202,True
+RuleTaker,1203,True
+RuleTaker,1204,True
+RuleTaker,1205,True
+RuleTaker,1206,True
+RuleTaker,1207,True
+RuleTaker,1208,True
+RuleTaker,1209,True
+RuleTaker,1210,True
+RuleTaker,1211,True
+RuleTaker,1212,True
+RuleTaker,1213,True
+RuleTaker,1214,True
+RuleTaker,1215,True
+RuleTaker,1216,True
+RuleTaker,1217,True
+RuleTaker,1218,True
+RuleTaker,1219,True
+RuleTaker,1220,True
+RuleTaker,1221,True
+RuleTaker,1222,True
+RuleTaker,1223,True
+RuleTaker,1224,True
+RuleTaker,1225,True
+RuleTaker,1226,True
+RuleTaker,1227,True
+RuleTaker,1228,True
+RuleTaker,1229,True
+RuleTaker,1230,True
+RuleTaker,1231,True
+RuleTaker,1232,True
+RuleTaker,1233,True
+RuleTaker,1234,True
+RuleTaker,1235,True
+RuleTaker,1236,True
+RuleTaker,1237,True
+RuleTaker,1238,True
+RuleTaker,1239,True
+RuleTaker,1240,True
+RuleTaker,1241,True
+RuleTaker,1242,True
+RuleTaker,1243,True
+RuleTaker,1244,True
+RuleTaker,1245,True
+RuleTaker,1246,True
+RuleTaker,1247,True
+RuleTaker,1248,True
+RuleTaker,1249,True
+RuleTaker,1250,True
+RuleTaker,1251,True
+RuleTaker,1252,False
+RuleTaker,1253,False
+RuleTaker,1254,True
+RuleTaker,1255,False
+RuleTaker,1256,False
+RuleTaker,1257,True
+RuleTaker,1258,True
+RuleTaker,1259,True
+RuleTaker,1260,False
+RuleTaker,1261,True
+RuleTaker,1262,True
+RuleTaker,1263,True
+RuleTaker,1264,True
+RuleTaker,1265,False
+RuleTaker,1266,True
+RuleTaker,1267,False
+RuleTaker,1268,False
+RuleTaker,1269,True
+RuleTaker,1270,True
+RuleTaker,1271,True
+RuleTaker,1272,True
+RuleTaker,1273,True
+RuleTaker,1274,True
+RuleTaker,1275,True
+RuleTaker,1276,False
+RuleTaker,1277,False
+RuleTaker,1278,True
+RuleTaker,1279,True
+RuleTaker,1280,False
+RuleTaker,1281,False
+RuleTaker,1282,False
+RuleTaker,1283,False
+RuleTaker,1284,False
+RuleTaker,1285,False
+RuleTaker,1286,False
+RuleTaker,1287,True
+RuleTaker,1288,False
+RuleTaker,1289,True
+RuleTaker,1290,False
+RuleTaker,1291,False
+RuleTaker,1292,True
+RuleTaker,1293,True
+RuleTaker,1294,False
+RuleTaker,1295,True
+RuleTaker,1296,True
+RuleTaker,1297,True
+RuleTaker,1298,False
+RuleTaker,1299,True
+RuleTaker,1300,True
+RuleTaker,1301,True
+RuleTaker,1302,True
+RuleTaker,1303,True
+RuleTaker,1304,False
+RuleTaker,1305,True
+RuleTaker,1306,True
+RuleTaker,1307,True
+RuleTaker,1308,False
+RuleTaker,1309,True
+RuleTaker,1310,True
+RuleTaker,1311,False
+RuleTaker,1312,True
+RuleTaker,1313,False
+RuleTaker,1314,True
+RuleTaker,1315,True
+RuleTaker,1316,True
+RuleTaker,1317,True
+RuleTaker,1318,False
+RuleTaker,1319,False
+RuleTaker,1320,True
+RuleTaker,1321,False
+RuleTaker,1322,True
+RuleTaker,1323,True
+RuleTaker,1324,True
+RuleTaker,1325,False
+RuleTaker,1326,True
+RuleTaker,1327,False
+RuleTaker,1328,True
+RuleTaker,1329,True
+RuleTaker,1330,True
+RuleTaker,1331,True
+RuleTaker,1332,True
+RuleTaker,1333,True
+RuleTaker,1334,False
+RuleTaker,1335,False
+RuleTaker,1336,True
+RuleTaker,1337,True
+RuleTaker,1338,True
+RuleTaker,1339,False
+RuleTaker,1340,False
+RuleTaker,1341,False
+RuleTaker,1342,True
+RuleTaker,1343,True
+RuleTaker,1344,False
+RuleTaker,1345,True
+RuleTaker,1346,False
+RuleTaker,1347,True
+RuleTaker,1348,False
+RuleTaker,1349,True
+RuleTaker,1350,True
+RuleTaker,1351,True
+RuleTaker,1352,True
+RuleTaker,1353,False
+RuleTaker,1354,False
+RuleTaker,1355,False
+RuleTaker,1356,True
+RuleTaker,1357,False
+RuleTaker,1358,False
+RuleTaker,1359,False
+RuleTaker,1360,True
+RuleTaker,1361,True
+RuleTaker,1362,False
+RuleTaker,1363,False
+RuleTaker,1364,False
+RuleTaker,1365,False
+RuleTaker,1366,True
+RuleTaker,1367,True
+RuleTaker,1368,False
+RuleTaker,1369,False
+RuleTaker,1370,True
+RuleTaker,1371,False
+RuleTaker,1372,True
+RuleTaker,1373,True
+RuleTaker,1374,True
+RuleTaker,1375,False
+RuleTaker,1376,False
+RuleTaker,1377,True
+RuleTaker,1378,True
+RuleTaker,1379,True
+RuleTaker,1380,False
+RuleTaker,1381,True
+RuleTaker,1382,False
+RuleTaker,1383,True
+RuleTaker,1384,False
+RuleTaker,1385,False
+RuleTaker,1386,False
+RuleTaker,1387,True
+RuleTaker,1388,True
+RuleTaker,1389,False
+RuleTaker,1390,False
+RuleTaker,1391,True
+RuleTaker,1392,False
+RuleTaker,1393,False
+RuleTaker,1394,False
+RuleTaker,1395,False
+RuleTaker,1396,False
+RuleTaker,1397,True
+RuleTaker,1398,True
+RuleTaker,1399,True
+RuleTaker,1400,True
+RuleTaker,1401,False
+RuleTaker,1402,False
+RuleTaker,1403,True
+RuleTaker,1404,True
+RuleTaker,1405,True
+RuleTaker,1406,False
+RuleTaker,1407,False
+RuleTaker,1408,True
+RuleTaker,1409,True
+RuleTaker,1410,True
+RuleTaker,1411,False
+RuleTaker,1412,False
+RuleTaker,1413,True
+RuleTaker,1414,True
+RuleTaker,1415,True
+RuleTaker,1416,True
+RuleTaker,1417,True
+RuleTaker,1418,True
+RuleTaker,1419,True
+RuleTaker,1420,False
+RuleTaker,1421,False
+RuleTaker,1422,False
+RuleTaker,1423,False
+RuleTaker,1424,False
+RuleTaker,1425,False
+RuleTaker,1426,True
+RuleTaker,1427,False
+RuleTaker,1428,True
+RuleTaker,1429,True
+RuleTaker,1430,False
+RuleTaker,1431,False
+RuleTaker,1432,False
+RuleTaker,1433,True
+RuleTaker,1434,True
+RuleTaker,1435,False
+RuleTaker,1436,False
+RuleTaker,1437,False
+RuleTaker,1438,True
+RuleTaker,1439,False
+RuleTaker,1440,True
+RuleTaker,1441,True
+RuleTaker,1442,False
+RuleTaker,1443,False
+RuleTaker,1444,True
+RuleTaker,1445,False
+RuleTaker,1446,True
+RuleTaker,1447,False
+RuleTaker,1448,True
+RuleTaker,1449,False
+RuleTaker,1450,True
+RuleTaker,1451,False
+RuleTaker,1452,False
+RuleTaker,1453,True
+RuleTaker,1454,False
+RuleTaker,1455,True
+RuleTaker,1456,True
+RuleTaker,1457,True
+RuleTaker,1458,True
+RuleTaker,1459,True
+RuleTaker,1460,True
+RuleTaker,1461,False
+RuleTaker,1462,False
+RuleTaker,1463,False
+RuleTaker,1464,False
+RuleTaker,1465,False
+RuleTaker,1466,False
+RuleTaker,1467,False
+RuleTaker,1468,False
+RuleTaker,1469,False
+RuleTaker,1470,True
+RuleTaker,1471,True
+RuleTaker,1472,True
+RuleTaker,1473,False
+RuleTaker,1474,False
+RuleTaker,1475,False
+RuleTaker,1476,True
+RuleTaker,1477,False
+RuleTaker,1478,False
+RuleTaker,1479,False
+RuleTaker,1480,True
+RuleTaker,1481,False
+RuleTaker,1482,True
+RuleTaker,1483,True
+RuleTaker,1484,True
+RuleTaker,1485,True
+RuleTaker,1486,True
+RuleTaker,1487,False
+RuleTaker,1488,True
+RuleTaker,1489,False
+RuleTaker,1490,False
+RuleTaker,1491,False
+RuleTaker,1492,False
+RuleTaker,1493,True
+RuleTaker,1494,True
+RuleTaker,1495,False
+RuleTaker,1496,False
+RuleTaker,1497,False
+RuleTaker,1498,True
+RuleTaker,1499,True
+RuleTaker,1500,False
+RuleTaker,1501,False
+RuleTaker,1502,False
+RuleTaker,1503,False
+RuleTaker,1504,False
+RuleTaker,1505,False
+RuleTaker,1506,False
+RuleTaker,1507,False
+RuleTaker,1508,False
+RuleTaker,1509,False
+RuleTaker,1510,False
+RuleTaker,1511,False
+RuleTaker,1512,False
+RuleTaker,1513,False
+RuleTaker,1514,False
+RuleTaker,1515,False
+RuleTaker,1516,False
+RuleTaker,1517,False
+RuleTaker,1518,False
+RuleTaker,1519,False
+RuleTaker,1520,False
+RuleTaker,1521,False
+RuleTaker,1522,False
+RuleTaker,1523,False
+RuleTaker,1524,False
+RuleTaker,1525,False
+RuleTaker,1526,False
+RuleTaker,1527,False
+RuleTaker,1528,False
+RuleTaker,1529,False
+RuleTaker,1530,False
+RuleTaker,1531,False
+RuleTaker,1532,False
+RuleTaker,1533,False
+RuleTaker,1534,False
+RuleTaker,1535,False
+RuleTaker,1536,False
+RuleTaker,1537,False
+RuleTaker,1538,False
+RuleTaker,1539,False
+RuleTaker,1540,False
+RuleTaker,1541,False
+RuleTaker,1542,False
+RuleTaker,1543,False
+RuleTaker,1544,False
+RuleTaker,1545,False
+RuleTaker,1546,False
+RuleTaker,1547,True
+RuleTaker,1548,False
+RuleTaker,1549,False
+RuleTaker,1550,False
+RuleTaker,1551,False
+RuleTaker,1552,False
+RuleTaker,1553,False
+RuleTaker,1554,False
+RuleTaker,1555,False
+RuleTaker,1556,False
+RuleTaker,1557,False
+RuleTaker,1558,False
+RuleTaker,1559,False
+RuleTaker,1560,False
+RuleTaker,1561,False
+RuleTaker,1562,False
+RuleTaker,1563,False
+RuleTaker,1564,False
+RuleTaker,1565,False
+RuleTaker,1566,False
+RuleTaker,1567,False
+RuleTaker,1568,False
+RuleTaker,1569,False
+RuleTaker,1570,False
+RuleTaker,1571,False
+RuleTaker,1572,False
+RuleTaker,1573,False
+RuleTaker,1574,False
+RuleTaker,1575,False
+RuleTaker,1576,False
+RuleTaker,1577,False
+RuleTaker,1578,False
+RuleTaker,1579,False
+RuleTaker,1580,False
+RuleTaker,1581,False
+RuleTaker,1582,True
+RuleTaker,1583,False
+RuleTaker,1584,False
+RuleTaker,1585,False
+RuleTaker,1586,False
+RuleTaker,1587,False
+RuleTaker,1588,False
+RuleTaker,1589,False
+RuleTaker,1590,False
+RuleTaker,1591,False
+RuleTaker,1592,False
+RuleTaker,1593,False
+RuleTaker,1594,False
+RuleTaker,1595,False
+RuleTaker,1596,False
+RuleTaker,1597,False
+RuleTaker,1598,False
+RuleTaker,1599,False
+RuleTaker,1600,False
+RuleTaker,1601,False
+RuleTaker,1602,False
+RuleTaker,1603,False
+RuleTaker,1604,False
+RuleTaker,1605,False
+RuleTaker,1606,False
+RuleTaker,1607,False
+RuleTaker,1608,False
+RuleTaker,1609,False
+RuleTaker,1610,False
+RuleTaker,1611,False
+RuleTaker,1612,False
+RuleTaker,1613,False
+RuleTaker,1614,False
+RuleTaker,1615,False
+RuleTaker,1616,False
+RuleTaker,1617,False
+RuleTaker,1618,False
+RuleTaker,1619,False
+RuleTaker,1620,False
+RuleTaker,1621,False
+RuleTaker,1622,False
+RuleTaker,1623,False
+RuleTaker,1624,False
+RuleTaker,1625,False
+CounterBench,1,False
+CounterBench,2,False
+CounterBench,3,False
+CounterBench,4,False
+CounterBench,5,False
+CounterBench,6,True
+CounterBench,7,True
+CounterBench,8,True
+CounterBench,9,True
+CounterBench,10,True
+CounterBench,11,True
+CounterBench,12,True
+CounterBench,13,True
+CounterBench,14,True
+CounterBench,15,True
+CounterBench,16,False
+CounterBench,17,False
+CounterBench,18,False
+CounterBench,19,False
+CounterBench,20,False
+CounterBench,21,False
+CounterBench,22,False
+CounterBench,23,False
+CounterBench,24,False
+CounterBench,25,False
+CounterBench,26,True
+CounterBench,27,True
+CounterBench,28,True
+CounterBench,29,True
+CounterBench,30,True
+CounterBench,31,False
+CounterBench,32,False
+CounterBench,33,False
+CounterBench,34,False
+CounterBench,35,False
+CounterBench,36,True
+CounterBench,37,True
+CounterBench,38,True
+CounterBench,39,True
+CounterBench,40,True
+CounterBench,41,False
+CounterBench,42,False
+CounterBench,43,False
+CounterBench,44,False
+CounterBench,45,False
+CounterBench,46,True
+CounterBench,47,True
+CounterBench,48,True
+CounterBench,49,True
+CounterBench,50,True
+CounterBench,51,False
+CounterBench,52,False
+CounterBench,53,False
+CounterBench,54,False
+CounterBench,55,False
+CounterBench,56,True
+CounterBench,57,True
+CounterBench,58,True
+CounterBench,59,True
+CounterBench,60,True
+CounterBench,61,False
+CounterBench,62,False
+CounterBench,63,False
+CounterBench,64,False
+CounterBench,65,False
+CounterBench,66,False
+CounterBench,67,False
+CounterBench,68,False
+CounterBench,69,False
+CounterBench,70,False
+CounterBench,71,True
+CounterBench,72,True
+CounterBench,73,True
+CounterBench,74,True
+CounterBench,75,True
+CounterBench,76,False
+CounterBench,77,False
+CounterBench,78,False
+CounterBench,79,False
+CounterBench,80,False
+CounterBench,81,True
+CounterBench,82,True
+CounterBench,83,True
+CounterBench,84,True
+CounterBench,85,True
+CounterBench,86,False
+CounterBench,87,False
+CounterBench,88,False
+CounterBench,89,False
+CounterBench,90,False
+CounterBench,91,True
+CounterBench,92,True
+CounterBench,93,True
+CounterBench,94,True
+CounterBench,95,True
+CounterBench,96,True
+CounterBench,97,True
+CounterBench,98,True
+CounterBench,99,True
+CounterBench,100,True
+CounterBench,101,False
+CounterBench,102,False
+CounterBench,103,False
+CounterBench,104,False
+CounterBench,105,False
+CounterBench,106,True
+CounterBench,107,True
+CounterBench,108,True
+CounterBench,109,True
+CounterBench,110,True
+CounterBench,111,True
+CounterBench,112,True
+CounterBench,113,True
+CounterBench,114,True
+CounterBench,115,True
+CounterBench,116,False
+CounterBench,117,False
+CounterBench,118,False
+CounterBench,119,False
+CounterBench,120,False
+CounterBench,121,True
+CounterBench,122,True
+CounterBench,123,True
+CounterBench,124,True
+CounterBench,125,True
+CounterBench,126,False
+CounterBench,127,False
+CounterBench,128,False
+CounterBench,129,False
+CounterBench,130,False
+CounterBench,131,False
+CounterBench,132,False
+CounterBench,133,False
+CounterBench,134,False
+CounterBench,135,False
+CounterBench,136,True
+CounterBench,137,True
+CounterBench,138,True
+CounterBench,139,True
+CounterBench,140,True
+CounterBench,141,False
+CounterBench,142,False
+CounterBench,143,False
+CounterBench,144,False
+CounterBench,145,False
+CounterBench,146,True
+CounterBench,147,True
+CounterBench,148,True
+CounterBench,149,True
+CounterBench,150,True
+CounterBench,151,False
+CounterBench,152,False
+CounterBench,153,False
+CounterBench,154,False
+CounterBench,155,False
+CounterBench,156,True
+CounterBench,157,True
+CounterBench,158,True
+CounterBench,159,True
+CounterBench,160,True
+CounterBench,161,False
+CounterBench,162,False
+CounterBench,163,False
+CounterBench,164,False
+CounterBench,165,False
+CounterBench,166,True
+CounterBench,167,True
+CounterBench,168,True
+CounterBench,169,True
+CounterBench,170,True
+CounterBench,171,False
+CounterBench,172,False
+CounterBench,173,False
+CounterBench,174,False
+CounterBench,175,False
+CounterBench,176,True
+CounterBench,177,True
+CounterBench,178,True
+CounterBench,179,True
+CounterBench,180,True
+CounterBench,181,False
+CounterBench,182,False
+CounterBench,183,False
+CounterBench,184,False
+CounterBench,185,False
+CounterBench,186,True
+CounterBench,187,True
+CounterBench,188,True
+CounterBench,189,True
+CounterBench,190,True
+CounterBench,191,False
+CounterBench,192,False
+CounterBench,193,False
+CounterBench,194,False
+CounterBench,195,False
+CounterBench,196,True
+CounterBench,197,True
+CounterBench,198,True
+CounterBench,199,True
+CounterBench,200,True
+CounterBench,201,True
+CounterBench,202,True
+CounterBench,203,True
+CounterBench,204,True
+CounterBench,205,True
+CounterBench,206,True
+CounterBench,207,True
+CounterBench,208,True
+CounterBench,209,True
+CounterBench,210,True
+CounterBench,211,False
+CounterBench,212,False
+CounterBench,213,False
+CounterBench,214,False
+CounterBench,215,False
+CounterBench,216,True
+CounterBench,217,True
+CounterBench,218,True
+CounterBench,219,True
+CounterBench,220,True
+CounterBench,221,True
+CounterBench,222,True
+CounterBench,223,True
+CounterBench,224,True
+CounterBench,225,True
+CounterBench,226,False
+CounterBench,227,False
+CounterBench,228,False
+CounterBench,229,False
+CounterBench,230,False
+CounterBench,231,False
+CounterBench,232,False
+CounterBench,233,False
+CounterBench,234,False
+CounterBench,235,False
+CounterBench,236,False
+CounterBench,237,False
+CounterBench,238,False
+CounterBench,239,False
+CounterBench,240,False
+CounterBench,241,True
+CounterBench,242,True
+CounterBench,243,True
+CounterBench,244,True
+CounterBench,245,True
+CounterBench,246,False
+CounterBench,247,False
+CounterBench,248,False
+CounterBench,249,False
+CounterBench,250,False
+CounterBench,251,True
+CounterBench,252,True
+CounterBench,253,True
+CounterBench,254,True
+CounterBench,255,True
+CounterBench,256,False
+CounterBench,257,False
+CounterBench,258,False
+CounterBench,259,False
+CounterBench,260,False
+CounterBench,261,False
+CounterBench,262,False
+CounterBench,263,False
+CounterBench,264,False
+CounterBench,265,False
+CounterBench,266,True
+CounterBench,267,True
+CounterBench,268,True
+CounterBench,269,True
+CounterBench,270,True
+CounterBench,271,False
+CounterBench,272,False
+CounterBench,273,False
+CounterBench,274,False
+CounterBench,275,False
+CounterBench,276,True
+CounterBench,277,True
+CounterBench,278,True
+CounterBench,279,True
+CounterBench,280,True
+CounterBench,281,False
+CounterBench,282,False
+CounterBench,283,False
+CounterBench,284,False
+CounterBench,285,False
+CounterBench,286,True
+CounterBench,287,True
+CounterBench,288,True
+CounterBench,289,True
+CounterBench,290,True
+CounterBench,291,True
+CounterBench,292,True
+CounterBench,293,True
+CounterBench,294,True
+CounterBench,295,True
+CounterBench,296,False
+CounterBench,297,False
+CounterBench,298,False
+CounterBench,299,False
+CounterBench,300,False
+CounterBench,301,False
+CounterBench,302,False
+CounterBench,303,False
+CounterBench,304,False
+CounterBench,305,False
+CounterBench,306,False
+CounterBench,307,False
+CounterBench,308,False
+CounterBench,309,False
+CounterBench,310,False
+CounterBench,311,False
+CounterBench,312,False
+CounterBench,313,False
+CounterBench,314,False
+CounterBench,315,False
+CounterBench,316,True
+CounterBench,317,True
+CounterBench,318,True
+CounterBench,319,True
+CounterBench,320,True
+CounterBench,321,True
+CounterBench,322,True
+CounterBench,323,True
+CounterBench,324,True
+CounterBench,325,True
+CounterBench,326,True
+CounterBench,327,True
+CounterBench,328,True
+CounterBench,329,True
+CounterBench,330,True
+CounterBench,331,False
+CounterBench,332,False
+CounterBench,333,False
+CounterBench,334,False
+CounterBench,335,False
+CounterBench,336,False
+CounterBench,337,False
+CounterBench,338,False
+CounterBench,339,False
+CounterBench,340,False
+CounterBench,341,True
+CounterBench,342,True
+CounterBench,343,True
+CounterBench,344,True
+CounterBench,345,True
+CounterBench,346,False
+CounterBench,347,False
+CounterBench,348,False
+CounterBench,349,False
+CounterBench,350,False
+CounterBench,351,True
+CounterBench,352,True
+CounterBench,353,True
+CounterBench,354,True
+CounterBench,355,True
+CounterBench,356,True
+CounterBench,357,True
+CounterBench,358,True
+CounterBench,359,True
+CounterBench,360,True
+CounterBench,361,True
+CounterBench,362,True
+CounterBench,363,True
+CounterBench,364,True
+CounterBench,365,True
+CounterBench,366,False
+CounterBench,367,False
+CounterBench,368,False
+CounterBench,369,False
+CounterBench,370,False
+CounterBench,371,False
+CounterBench,372,False
+CounterBench,373,False
+CounterBench,374,False
+CounterBench,375,False
+CounterBench,376,True
+CounterBench,377,True
+CounterBench,378,True
+CounterBench,379,True
+CounterBench,380,True
+CounterBench,381,False
+CounterBench,382,False
+CounterBench,383,False
+CounterBench,384,False
+CounterBench,385,False
+CounterBench,386,True
+CounterBench,387,True
+CounterBench,388,True
+CounterBench,389,True
+CounterBench,390,True
+CounterBench,391,True
+CounterBench,392,True
+CounterBench,393,True
+CounterBench,394,True
+CounterBench,395,True
+CounterBench,396,False
+CounterBench,397,False
+CounterBench,398,False
+CounterBench,399,False
+CounterBench,400,False
+CounterBench,401,False
+CounterBench,402,False
+CounterBench,403,False
+CounterBench,404,False
+CounterBench,405,False
+CounterBench,406,True
+CounterBench,407,True
+CounterBench,408,True
+CounterBench,409,True
+CounterBench,410,True
+CounterBench,411,False
+CounterBench,412,False
+CounterBench,413,False
+CounterBench,414,False
+CounterBench,415,False
+CounterBench,416,False
+CounterBench,417,False
+CounterBench,418,False
+CounterBench,419,False
+CounterBench,420,False
+CounterBench,421,True
+CounterBench,422,True
+CounterBench,423,True
+CounterBench,424,True
+CounterBench,425,True
+CounterBench,426,False
+CounterBench,427,False
+CounterBench,428,False
+CounterBench,429,False
+CounterBench,430,False
+CounterBench,431,True
+CounterBench,432,True
+CounterBench,433,True
+CounterBench,434,True
+CounterBench,435,True
+CounterBench,436,False
+CounterBench,437,False
+CounterBench,438,False
+CounterBench,439,False
+CounterBench,440,False
+CounterBench,441,True
+CounterBench,442,True
+CounterBench,443,True
+CounterBench,444,True
+CounterBench,445,True
+CounterBench,446,True
+CounterBench,447,True
+CounterBench,448,True
+CounterBench,449,True
+CounterBench,450,True
+CounterBench,451,True
+CounterBench,452,True
+CounterBench,453,True
+CounterBench,454,True
+CounterBench,455,True
+CounterBench,456,True
+CounterBench,457,True
+CounterBench,458,True
+CounterBench,459,True
+CounterBench,460,True
+CounterBench,461,True
+CounterBench,462,True
+CounterBench,463,True
+CounterBench,464,True
+CounterBench,465,True
+CounterBench,466,True
+CounterBench,467,True
+CounterBench,468,True
+CounterBench,469,True
+CounterBench,470,True
+CounterBench,471,True
+CounterBench,472,True
+CounterBench,473,True
+CounterBench,474,True
+CounterBench,475,True
+CounterBench,476,False
+CounterBench,477,False
+CounterBench,478,False
+CounterBench,479,False
+CounterBench,480,False
+CounterBench,481,False
+CounterBench,482,False
+CounterBench,483,False
+CounterBench,484,False
+CounterBench,485,False
+CounterBench,486,True
+CounterBench,487,True
+CounterBench,488,True
+CounterBench,489,True
+CounterBench,490,True
+CounterBench,491,True
+CounterBench,492,True
+CounterBench,493,True
+CounterBench,494,True
+CounterBench,495,True
+CounterBench,496,False
+CounterBench,497,False
+CounterBench,498,False
+CounterBench,499,False
+CounterBench,500,False
+CounterBench,501,True
+CounterBench,502,True
+CounterBench,503,True
+CounterBench,504,True
+CounterBench,505,True
+CounterBench,506,True
+CounterBench,507,True
+CounterBench,508,True
+CounterBench,509,True
+CounterBench,510,True
+CounterBench,511,False
+CounterBench,512,False
+CounterBench,513,False
+CounterBench,514,False
+CounterBench,515,False
+CounterBench,516,False
+CounterBench,517,False
+CounterBench,518,False
+CounterBench,519,False
+CounterBench,520,False
+CounterBench,521,True
+CounterBench,522,True
+CounterBench,523,True
+CounterBench,524,True
+CounterBench,525,True
+CounterBench,526,True
+CounterBench,527,True
+CounterBench,528,True
+CounterBench,529,True
+CounterBench,530,True
+CounterBench,531,False
+CounterBench,532,False
+CounterBench,533,False
+CounterBench,534,False
+CounterBench,535,False
+CounterBench,536,False
+CounterBench,537,False
+CounterBench,538,False
+CounterBench,539,False
+CounterBench,540,False
+CounterBench,541,False
+CounterBench,542,False
+CounterBench,543,False
+CounterBench,544,False
+CounterBench,545,False
+CounterBench,546,True
+CounterBench,547,True
+CounterBench,548,True
+CounterBench,549,True
+CounterBench,550,True
+CounterBench,551,True
+CounterBench,552,True
+CounterBench,553,True
+CounterBench,554,True
+CounterBench,555,True
+CounterBench,556,False
+CounterBench,557,False
+CounterBench,558,False
+CounterBench,559,False
+CounterBench,560,False
+CounterBench,561,True
+CounterBench,562,True
+CounterBench,563,True
+CounterBench,564,True
+CounterBench,565,True
+CounterBench,566,False
+CounterBench,567,False
+CounterBench,568,False
+CounterBench,569,False
+CounterBench,570,False
+CounterBench,571,True
+CounterBench,572,True
+CounterBench,573,True
+CounterBench,574,True
+CounterBench,575,True
+CounterBench,576,True
+CounterBench,577,True
+CounterBench,578,True
+CounterBench,579,True
+CounterBench,580,True
+CounterBench,581,False
+CounterBench,582,False
+CounterBench,583,False
+CounterBench,584,False
+CounterBench,585,False
+CounterBench,586,False
+CounterBench,587,False
+CounterBench,588,False
+CounterBench,589,False
+CounterBench,590,False
+CounterBench,591,False
+CounterBench,592,False
+CounterBench,593,False
+CounterBench,594,False
+CounterBench,595,False
+CounterBench,596,True
+CounterBench,597,True
+CounterBench,598,True
+CounterBench,599,True
+CounterBench,600,True
+CounterBench,601,True
+CounterBench,602,True
+CounterBench,603,True
+CounterBench,604,True
+CounterBench,605,True
+CounterBench,606,False
+CounterBench,607,False
+CounterBench,608,False
+CounterBench,609,False
+CounterBench,610,False
+CounterBench,611,True
+CounterBench,612,True
+CounterBench,613,True
+CounterBench,614,True
+CounterBench,615,True
+CounterBench,616,True
+CounterBench,617,True
+CounterBench,618,True
+CounterBench,619,True
+CounterBench,620,True
+CounterBench,621,False
+CounterBench,622,False
+CounterBench,623,False
+CounterBench,624,False
+CounterBench,625,False
+CounterBench,626,False
+CounterBench,627,False
+CounterBench,628,False
+CounterBench,629,False
+CounterBench,630,False
+CounterBench,631,False
+CounterBench,632,False
+CounterBench,633,False
+CounterBench,634,False
+CounterBench,635,False
+CounterBench,636,False
+CounterBench,637,False
+CounterBench,638,False
+CounterBench,639,False
+CounterBench,640,False
+CounterBench,641,True
+CounterBench,642,True
+CounterBench,643,True
+CounterBench,644,True
+CounterBench,645,True
+CounterBench,646,False
+CounterBench,647,False
+CounterBench,648,False
+CounterBench,649,False
+CounterBench,650,False
+CounterBench,651,False
+CounterBench,652,False
+CounterBench,653,False
+CounterBench,654,False
+CounterBench,655,False
+CounterBench,656,False
+CounterBench,657,False
+CounterBench,658,False
+CounterBench,659,False
+CounterBench,660,False
+CounterBench,661,False
+CounterBench,662,False
+CounterBench,663,False
+CounterBench,664,False
+CounterBench,665,False
+CounterBench,666,False
+CounterBench,667,False
+CounterBench,668,False
+CounterBench,669,False
+CounterBench,670,False
+CounterBench,671,False
+CounterBench,672,False
+CounterBench,673,False
+CounterBench,674,False
+CounterBench,675,False
+CounterBench,676,False
+CounterBench,677,False
+CounterBench,678,False
+CounterBench,679,False
+CounterBench,680,False
+CounterBench,681,False
+CounterBench,682,False
+CounterBench,683,False
+CounterBench,684,False
+CounterBench,685,False
+CounterBench,686,True
+CounterBench,687,True
+CounterBench,688,True
+CounterBench,689,True
+CounterBench,690,True
+CounterBench,691,True
+CounterBench,692,True
+CounterBench,693,True
+CounterBench,694,True
+CounterBench,695,True
+CounterBench,696,True
+CounterBench,697,True
+CounterBench,698,True
+CounterBench,699,True
+CounterBench,700,True
+CounterBench,701,True
+CounterBench,702,True
+CounterBench,703,True
+CounterBench,704,True
+CounterBench,705,True
+CounterBench,706,True
+CounterBench,707,True
+CounterBench,708,True
+CounterBench,709,True
+CounterBench,710,True
+CounterBench,711,False
+CounterBench,712,False
+CounterBench,713,False
+CounterBench,714,False
+CounterBench,715,False
+CounterBench,716,True
+CounterBench,717,True
+CounterBench,718,True
+CounterBench,719,True
+CounterBench,720,True
+CounterBench,721,False
+CounterBench,722,False
+CounterBench,723,False
+CounterBench,724,False
+CounterBench,725,False
+CounterBench,726,True
+CounterBench,727,True
+CounterBench,728,True
+CounterBench,729,True
+CounterBench,730,True
+CounterBench,731,True
+CounterBench,732,True
+CounterBench,733,True
+CounterBench,734,True
+CounterBench,735,True
+CounterBench,736,False
+CounterBench,737,False
+CounterBench,738,False
+CounterBench,739,False
+CounterBench,740,False
+CounterBench,741,False
+CounterBench,742,False
+CounterBench,743,False
+CounterBench,744,False
+CounterBench,745,False
+CounterBench,746,True
+CounterBench,747,True
+CounterBench,748,True
+CounterBench,749,True
+CounterBench,750,True
+CounterBench,751,False
+CounterBench,752,False
+CounterBench,753,False
+CounterBench,754,False
+CounterBench,755,False
+CounterBench,756,True
+CounterBench,757,True
+CounterBench,758,True
+CounterBench,759,True
+CounterBench,760,True
+CounterBench,761,False
+CounterBench,762,False
+CounterBench,763,False
+CounterBench,764,False
+CounterBench,765,False
+CounterBench,766,False
+CounterBench,767,False
+CounterBench,768,False
+CounterBench,769,False
+CounterBench,770,False
+CounterBench,771,False
+CounterBench,772,False
+CounterBench,773,False
+CounterBench,774,False
+CounterBench,775,False
+CounterBench,776,True
+CounterBench,777,True
+CounterBench,778,True
+CounterBench,779,True
+CounterBench,780,True
+CounterBench,781,True
+CounterBench,782,True
+CounterBench,783,True
+CounterBench,784,True
+CounterBench,785,True
+CounterBench,786,True
+CounterBench,787,True
+CounterBench,788,True
+CounterBench,789,True
+CounterBench,790,True
+CounterBench,791,False
+CounterBench,792,False
+CounterBench,793,False
+CounterBench,794,False
+CounterBench,795,False
+CounterBench,796,False
+CounterBench,797,False
+CounterBench,798,False
+CounterBench,799,False
+CounterBench,800,False
+CounterBench,801,True
+CounterBench,802,True
+CounterBench,803,True
+CounterBench,804,True
+CounterBench,805,True
+CounterBench,806,False
+CounterBench,807,False
+CounterBench,808,False
+CounterBench,809,False
+CounterBench,810,False
+CounterBench,811,False
+CounterBench,812,False
+CounterBench,813,False
+CounterBench,814,False
+CounterBench,815,False
+CounterBench,816,True
+CounterBench,817,True
+CounterBench,818,True
+CounterBench,819,True
+CounterBench,820,True
+CounterBench,821,False
+CounterBench,822,False
+CounterBench,823,False
+CounterBench,824,False
+CounterBench,825,False
+CounterBench,826,False
+CounterBench,827,False
+CounterBench,828,False
+CounterBench,829,False
+CounterBench,830,False
+CounterBench,831,False
+CounterBench,832,False
+CounterBench,833,False
+CounterBench,834,False
+CounterBench,835,False
+CounterBench,836,True
+CounterBench,837,True
+CounterBench,838,True
+CounterBench,839,True
+CounterBench,840,True
+CounterBench,841,False
+CounterBench,842,False
+CounterBench,843,False
+CounterBench,844,False
+CounterBench,845,False
+CounterBench,846,False
+CounterBench,847,False
+CounterBench,848,False
+CounterBench,849,False
+CounterBench,850,False
+CounterBench,851,False
+CounterBench,852,False
+CounterBench,853,False
+CounterBench,854,False
+CounterBench,855,False
+CounterBench,856,False
+CounterBench,857,False
+CounterBench,858,False
+CounterBench,859,False
+CounterBench,860,False
+CounterBench,861,False
+CounterBench,862,False
+CounterBench,863,False
+CounterBench,864,False
+CounterBench,865,False
+CounterBench,866,False
+CounterBench,867,False
+CounterBench,868,False
+CounterBench,869,False
+CounterBench,870,False
+CounterBench,871,True
+CounterBench,872,True
+CounterBench,873,True
+CounterBench,874,True
+CounterBench,875,True
+CounterBench,876,False
+CounterBench,877,False
+CounterBench,878,False
+CounterBench,879,False
+CounterBench,880,False
+CounterBench,881,False
+CounterBench,882,False
+CounterBench,883,False
+CounterBench,884,False
+CounterBench,885,False
+CounterBench,886,True
+CounterBench,887,True
+CounterBench,888,True
+CounterBench,889,True
+CounterBench,890,True
+CounterBench,891,True
+CounterBench,892,True
+CounterBench,893,True
+CounterBench,894,True
+CounterBench,895,True
+CounterBench,896,True
+CounterBench,897,True
+CounterBench,898,True
+CounterBench,899,True
+CounterBench,900,True
+CounterBench,901,True
+CounterBench,902,True
+CounterBench,903,True
+CounterBench,904,True
+CounterBench,905,True
+CounterBench,906,False
+CounterBench,907,False
+CounterBench,908,False
+CounterBench,909,False
+CounterBench,910,False
+CounterBench,911,True
+CounterBench,912,True
+CounterBench,913,True
+CounterBench,914,True
+CounterBench,915,True
+CounterBench,916,False
+CounterBench,917,False
+CounterBench,918,False
+CounterBench,919,False
+CounterBench,920,False
+CounterBench,921,True
+CounterBench,922,True
+CounterBench,923,True
+CounterBench,924,True
+CounterBench,925,True
+CounterBench,926,False
+CounterBench,927,False
+CounterBench,928,False
+CounterBench,929,False
+CounterBench,930,False
+CounterBench,931,True
+CounterBench,932,True
+CounterBench,933,True
+CounterBench,934,True
+CounterBench,935,True
+CounterBench,936,True
+CounterBench,937,True
+CounterBench,938,True
+CounterBench,939,True
+CounterBench,940,True
+CounterBench,941,False
+CounterBench,942,False
+CounterBench,943,False
+CounterBench,944,False
+CounterBench,945,False
+CounterBench,946,False
+CounterBench,947,False
+CounterBench,948,False
+CounterBench,949,False
+CounterBench,950,False
+CounterBench,951,True
+CounterBench,952,True
+CounterBench,953,True
+CounterBench,954,True
+CounterBench,955,True
+CounterBench,956,True
+CounterBench,957,True
+CounterBench,958,True
+CounterBench,959,True
+CounterBench,960,True
+CounterBench,961,False
+CounterBench,962,False
+CounterBench,963,False
+CounterBench,964,False
+CounterBench,965,False
+CounterBench,966,True
+CounterBench,967,True
+CounterBench,968,True
+CounterBench,969,True
+CounterBench,970,True
+CounterBench,971,False
+CounterBench,972,False
+CounterBench,973,False
+CounterBench,974,False
+CounterBench,975,False
+CounterBench,976,True
+CounterBench,977,True
+CounterBench,978,True
+CounterBench,979,True
+CounterBench,980,True
+CounterBench,981,True
+CounterBench,982,True
+CounterBench,983,True
+CounterBench,984,True
+CounterBench,985,True
+CounterBench,986,False
+CounterBench,987,False
+CounterBench,988,False
+CounterBench,989,False
+CounterBench,990,False
+CounterBench,991,True
+CounterBench,992,True
+CounterBench,993,True
+CounterBench,994,True
+CounterBench,995,True
+CounterBench,996,True
+CounterBench,997,True
+CounterBench,998,True
+CounterBench,999,True
+CounterBench,1000,True
+CounterBench,1001,True
+CounterBench,1002,True
+CounterBench,1003,True
+CounterBench,1004,True
+CounterBench,1005,True
+CounterBench,1006,False
+CounterBench,1007,False
+CounterBench,1008,False
+CounterBench,1009,False
+CounterBench,1010,False
+CounterBench,1011,False
+CounterBench,1012,False
+CounterBench,1013,False
+CounterBench,1014,False
+CounterBench,1015,False
+CounterBench,1016,False
+CounterBench,1017,False
+CounterBench,1018,False
+CounterBench,1019,False
+CounterBench,1020,False
+CounterBench,1021,False
+CounterBench,1022,False
+CounterBench,1023,False
+CounterBench,1024,False
+CounterBench,1025,False
+CounterBench,1026,True
+CounterBench,1027,True
+CounterBench,1028,True
+CounterBench,1029,True
+CounterBench,1030,True
+CounterBench,1031,True
+CounterBench,1032,True
+CounterBench,1033,True
+CounterBench,1034,True
+CounterBench,1035,True
+CounterBench,1036,False
+CounterBench,1037,False
+CounterBench,1038,False
+CounterBench,1039,False
+CounterBench,1040,False
+CounterBench,1041,True
+CounterBench,1042,True
+CounterBench,1043,True
+CounterBench,1044,True
+CounterBench,1045,True
+CounterBench,1046,False
+CounterBench,1047,False
+CounterBench,1048,False
+CounterBench,1049,False
+CounterBench,1050,False
+CounterBench,1051,False
+CounterBench,1052,False
+CounterBench,1053,False
+CounterBench,1054,False
+CounterBench,1055,False
+CounterBench,1056,True
+CounterBench,1057,True
+CounterBench,1058,True
+CounterBench,1059,True
+CounterBench,1060,True
+CounterBench,1061,False
+CounterBench,1062,False
+CounterBench,1063,False
+CounterBench,1064,False
+CounterBench,1065,False
+CounterBench,1066,False
+CounterBench,1067,False
+CounterBench,1068,False
+CounterBench,1069,False
+CounterBench,1070,False
+CounterBench,1071,True
+CounterBench,1072,True
+CounterBench,1073,True
+CounterBench,1074,True
+CounterBench,1075,True
+CounterBench,1076,False
+CounterBench,1077,False
+CounterBench,1078,False
+CounterBench,1079,False
+CounterBench,1080,False
+CounterBench,1081,False
+CounterBench,1082,False
+CounterBench,1083,False
+CounterBench,1084,False
+CounterBench,1085,False
+CounterBench,1086,True
+CounterBench,1087,True
+CounterBench,1088,True
+CounterBench,1089,True
+CounterBench,1090,True
+CounterBench,1091,True
+CounterBench,1092,True
+CounterBench,1093,True
+CounterBench,1094,True
+CounterBench,1095,True
+CounterBench,1096,False
+CounterBench,1097,False
+CounterBench,1098,False
+CounterBench,1099,False
+CounterBench,1100,False
+CounterBench,1101,True
+CounterBench,1102,True
+CounterBench,1103,True
+CounterBench,1104,True
+CounterBench,1105,True
+CounterBench,1106,False
+CounterBench,1107,False
+CounterBench,1108,False
+CounterBench,1109,False
+CounterBench,1110,False
+CounterBench,1111,False
+CounterBench,1112,False
+CounterBench,1113,False
+CounterBench,1114,False
+CounterBench,1115,False
+CounterBench,1116,True
+CounterBench,1117,True
+CounterBench,1118,True
+CounterBench,1119,True
+CounterBench,1120,True
+CounterBench,1121,False
+CounterBench,1122,False
+CounterBench,1123,False
+CounterBench,1124,False
+CounterBench,1125,False
+CounterBench,1126,True
+CounterBench,1127,True
+CounterBench,1128,True
+CounterBench,1129,True
+CounterBench,1130,True
+CounterBench,1131,False
+CounterBench,1132,False
+CounterBench,1133,False
+CounterBench,1134,False
+CounterBench,1135,False
+CounterBench,1136,False
+CounterBench,1137,False
+CounterBench,1138,False
+CounterBench,1139,False
+CounterBench,1140,False
+CounterBench,1141,False
+CounterBench,1142,False
+CounterBench,1143,False
+CounterBench,1144,False
+CounterBench,1145,False
+CounterBench,1146,True
+CounterBench,1147,True
+CounterBench,1148,True
+CounterBench,1149,True
+CounterBench,1150,True
+CounterBench,1151,False
+CounterBench,1152,False
+CounterBench,1153,False
+CounterBench,1154,False
+CounterBench,1155,False
+CounterBench,1156,False
+CounterBench,1157,False
+CounterBench,1158,False
+CounterBench,1159,False
+CounterBench,1160,False
+CounterBench,1161,False
+CounterBench,1162,False
+CounterBench,1163,False
+CounterBench,1164,False
+CounterBench,1165,False
+CounterBench,1166,True
+CounterBench,1167,True
+CounterBench,1168,True
+CounterBench,1169,True
+CounterBench,1170,True
+CounterBench,1171,False
+CounterBench,1172,False
+CounterBench,1173,False
+CounterBench,1174,False
+CounterBench,1175,False
+CounterBench,1176,True
+CounterBench,1177,True
+CounterBench,1178,True
+CounterBench,1179,True
+CounterBench,1180,True
+CounterBench,1181,True
+CounterBench,1182,True
+CounterBench,1183,True
+CounterBench,1184,True
+CounterBench,1185,True
+CounterBench,1186,False
+CounterBench,1187,False
+CounterBench,1188,False
+CounterBench,1189,False
+CounterBench,1190,False
+CounterBench,1191,False
+CounterBench,1192,False
+CounterBench,1193,False
+CounterBench,1194,False
+CounterBench,1195,False
+CounterBench,1196,True
+CounterBench,1197,True
+CounterBench,1198,True
+CounterBench,1199,True
+CounterBench,1200,True
+FOLIO FOL,1,True
+FOLIO FOL,2,False
+FOLIO FOL,3,False
+FOLIO FOL,4,False
+FOLIO FOL,5,True
+FOLIO FOL,6,False
+FOLIO FOL,7,False
+FOLIO FOL,8,True
+FOLIO FOL,9,False
+FOLIO FOL,10,False
+FOLIO FOL,11,False
+FOLIO FOL,12,True
+FOLIO FOL,13,True
+FOLIO FOL,14,False
+FOLIO FOL,15,True
+FOLIO FOL,16,True
+FOLIO FOL,17,False
+FOLIO FOL,18,True
+FOLIO FOL,19,False
+FOLIO FOL,20,True
+FOLIO FOL,21,False
+FOLIO FOL,22,True
+FOLIO FOL,23,False
+FOLIO FOL,24,True
+FOLIO FOL,25,True
+FOLIO FOL,26,True
+FOLIO FOL,27,True
+FOLIO FOL,28,True
+FOLIO FOL,29,True
+FOLIO FOL,30,False
+FOLIO FOL,31,False
+FOLIO FOL,32,False
+FOLIO FOL,33,False
+FOLIO FOL,34,False
+FOLIO FOL,35,False
+FOLIO FOL,36,False
+FOLIO FOL,37,True
+FOLIO FOL,38,True
+FOLIO FOL,39,False
+FOLIO FOL,40,True
+FOLIO FOL,41,True
+FOLIO FOL,42,False
+FOLIO FOL,43,False
+FOLIO FOL,44,True
+FOLIO FOL,45,True
+FOLIO FOL,46,False
+FOLIO FOL,47,True
+FOLIO FOL,48,False
+FOLIO FOL,49,True
+FOLIO FOL,50,True
+FOLIO FOL,51,False
+FOLIO FOL,52,False
+FOLIO FOL,53,False
+FOLIO FOL,54,False
+FOLIO FOL,55,True
+FOLIO FOL,56,True
+FOLIO FOL,57,False
+FOLIO FOL,58,False
+FOLIO FOL,59,True
+FOLIO FOL,60,False
+FOLIO FOL,61,False
+FOLIO FOL,62,False
+FOLIO FOL,63,True
+FOLIO FOL,64,True
+FOLIO FOL,65,True
+FOLIO FOL,66,True
+FOLIO FOL,67,True
+FOLIO FOL,68,True
+FOLIO FOL,69,False
+FOLIO FOL,70,True
+FOLIO FOL,71,False
+FOLIO FOL,72,False
+FOLIO FOL,73,True
+FOLIO FOL,74,False
+FOLIO FOL,75,True
+FOLIO FOL,76,False
+FOLIO FOL,77,True
+FOLIO FOL,78,True
+FOLIO FOL,79,False
+FOLIO FOL,80,False
+FOLIO FOL,81,True
+FOLIO FOL,82,True
+FOLIO FOL,83,True
+FOLIO FOL,84,True
+FOLIO FOL,85,True
+FOLIO FOL,86,False
+FOLIO FOL,87,True
+FOLIO FOL,88,False
+FOLIO FOL,89,True
+FOLIO FOL,90,False
+FOLIO FOL,91,True
+FOLIO FOL,92,False
+FOLIO FOL,93,True
+FOLIO FOL,94,False
+FOLIO FOL,95,True
+FOLIO FOL,96,True
+FOLIO FOL,97,False
+FOLIO FOL,98,False
+FOLIO FOL,99,False
+FOLIO FOL,100,False
+FOLIO FOL,101,True
+FOLIO FOL,102,False
+FOLIO FOL,103,True
+FOLIO FOL,104,False
+FOLIO FOL,105,True
+FOLIO FOL,106,True
+FOLIO FOL,107,False
+FOLIO FOL,108,False
+FOLIO FOL,109,True
+FOLIO FOL,110,True
+FOLIO FOL,111,False
+FOLIO FOL,112,True
+FOLIO FOL,113,True
+FOLIO FOL,114,False
+FOLIO FOL,115,False
+FOLIO FOL,116,True
+FOLIO FOL,117,False
+FOLIO FOL,118,True
+FOLIO FOL,119,False
+FOLIO FOL,120,False
+FOLIO FOL,121,False
+FOLIO FOL,122,False
+FOLIO FOL,123,False
+FOLIO FOL,124,False
+FOLIO FOL,125,True
+FOLIO FOL,126,False
+FOLIO FOL,127,False
+FOLIO FOL,128,True
+FOLIO FOL,129,True
+FOLIO FOL,130,False
+FOLIO FOL,131,False
+FOLIO FOL,132,True
+FOLIO FOL,133,True
+FOLIO FOL,134,True
+FOLIO FOL,135,True
+FOLIO FOL,136,False
+FOLIO FOL,137,False
+FOLIO FOL,138,True
+FOLIO FOL,139,True
+FOLIO FOL,140,False
+FOLIO FOL,141,False
+FOLIO FOL,142,True
+FOLIO FOL,143,True
+FOLIO FOL,144,True
+FOLIO FOL,145,False
+FOLIO FOL,146,False
+FOLIO FOL,147,False
+FOLIO FOL,148,True
+FOLIO FOL,149,True
+FOLIO FOL,150,False
+FOLIO FOL,151,True
+FOLIO FOL,152,False
+FOLIO FOL,153,True
+FOLIO FOL,154,False
+FOLIO FOL,155,False
+FOLIO FOL,156,False
+FOLIO FOL,157,False
+FOLIO FOL,158,True
+FOLIO FOL,159,False
+FOLIO FOL,160,True
+FOLIO FOL,161,False
+FOLIO FOL,162,False
+FOLIO FOL,163,False
+FOLIO FOL,164,False
+FOLIO FOL,165,False
+FOLIO FOL,166,False
+FOLIO FOL,167,True
+FOLIO FOL,168,True
+FOLIO FOL,169,False
+FOLIO FOL,170,True
+FOLIO FOL,171,False
+FOLIO FOL,172,False
+FOLIO FOL,173,False
+FOLIO FOL,174,True
+FOLIO FOL,175,False
+FOLIO FOL,176,True
+FOLIO FOL,177,False
+FOLIO FOL,178,False
+FOLIO FOL,179,False
+FOLIO FOL,180,False
+FOLIO FOL,181,False
+FOLIO FOL,182,True
+FOLIO FOL,183,False
+FOLIO FOL,184,True
+FOLIO FOL,185,False
+FOLIO FOL,186,False
+FOLIO FOL,187,False
+FOLIO FOL,188,False
+FOLIO FOL,189,True
+FOLIO FOL,190,False
+FOLIO FOL,191,True
+FOLIO FOL,192,False
+FOLIO FOL,193,False
+FOLIO FOL,194,False
+FOLIO FOL,195,True
+FOLIO FOL,196,False
+FOLIO FOL,197,False
+FOLIO FOL,198,True
+FOLIO FOL,199,True
+FOLIO FOL,200,False
+FOLIO FOL,201,Unresolved
+FOLIO FOL,202,Unresolved
+FOLIO FOL,203,True
+FOLIO FOL,204,False
+FOLIO FOL,205,True
+FOLIO FOL,206,True
+FOLIO FOL,207,True
+FOLIO FOL,208,False
+FOLIO FOL,209,False
+FOLIO FOL,210,False
+FOLIO FOL,211,False
+FOLIO FOL,212,False
+FOLIO FOL,213,True
+FOLIO FOL,214,False
+FOLIO FOL,215,False
+FOLIO FOL,216,True
+FOLIO FOL,217,True
+FOLIO FOL,218,False
+FOLIO FOL,219,True
+FOLIO FOL,220,True
+FOLIO FOL,221,False
+FOLIO FOL,222,False
+FOLIO FOL,223,False
+FOLIO FOL,224,False
+FOLIO FOL,225,False
+FOLIO FOL,226,False
+FOLIO FOL,227,False
+FOLIO FOL,228,False
+FOLIO FOL,229,False
+FOLIO FOL,230,False
+FOLIO FOL,231,True
+FOLIO FOL,232,False
+FOLIO FOL,233,False
+FOLIO FOL,234,False
+FOLIO FOL,235,True
+FOLIO FOL,236,False
+FOLIO FOL,237,True
+FOLIO FOL,238,False
+FOLIO FOL,239,False
+FOLIO FOL,240,True
+FOLIO FOL,241,False
+FOLIO FOL,242,True
+FOLIO FOL,243,False
+FOLIO FOL,244,False
+FOLIO FOL,245,False
+FOLIO FOL,246,False
+FOLIO FOL,247,False
+FOLIO FOL,248,False
+FOLIO FOL,249,True
+FOLIO FOL,250,True
+FOLIO FOL,251,True
+FOLIO FOL,252,True
+FOLIO FOL,253,False
+FOLIO FOL,254,False
+FOLIO FOL,255,False
+FOLIO FOL,256,True
+FOLIO FOL,257,False
+FOLIO FOL,258,False
+FOLIO FOL,259,True
+FOLIO FOL,260,True
+FOLIO FOL,261,True
+FOLIO FOL,262,False
+FOLIO FOL,263,False
+FOLIO FOL,264,True
+FOLIO FOL,265,True
+FOLIO FOL,266,False
+FOLIO FOL,267,False
+FOLIO FOL,268,True
+FOLIO FOL,269,False
+FOLIO FOL,270,True
+FOLIO FOL,271,False
+FOLIO FOL,272,True
+FOLIO FOL,273,False
+FOLIO FOL,274,False
+FOLIO FOL,275,False
+FOLIO FOL,276,True
+FOLIO FOL,277,True
+FOLIO FOL,278,False
+FOLIO FOL,279,False
+FOLIO FOL,280,True
+FOLIO FOL,281,False
+FOLIO FOL,282,True
+FOLIO FOL,283,False
+FOLIO FOL,284,False
+FOLIO FOL,285,False
+FOLIO FOL,286,False
+FOLIO FOL,287,False
+FOLIO FOL,288,True
+FOLIO FOL,289,False
+FOLIO FOL,290,False
+FOLIO FOL,291,True
+FOLIO FOL,292,False
+FOLIO FOL,293,False
+FOLIO FOL,294,False
+FOLIO FOL,295,True
+FOLIO FOL,296,True
+FOLIO FOL,297,True
+FOLIO FOL,298,True
+FOLIO FOL,299,False
+FOLIO FOL,300,True
+FOLIO FOL,301,False
+FOLIO FOL,302,False
+FOLIO FOL,303,False
+FOLIO FOL,304,False
+FOLIO FOL,305,True
+FOLIO FOL,306,False
+FOLIO FOL,307,True
+FOLIO FOL,308,True
+FOLIO FOL,309,True
+FOLIO FOL,310,True
+FOLIO FOL,311,True
+FOLIO FOL,312,False
+FOLIO FOL,313,False
+FOLIO FOL,314,False
+FOLIO FOL,315,False
+FOLIO FOL,316,False
+FOLIO FOL,317,False
+FOLIO FOL,318,True
+FOLIO FOL,319,False
+FOLIO FOL,320,False
+FOLIO FOL,321,False
+FOLIO FOL,322,False
+FOLIO FOL,323,False
+FOLIO FOL,324,True
+FOLIO FOL,325,True
+FOLIO FOL,326,False
+FOLIO FOL,327,False
+FOLIO FOL,328,True
+FOLIO FOL,329,False
+FOLIO FOL,330,False
+FOLIO FOL,331,False
+FOLIO FOL,332,True
+FOLIO FOL,333,False
+FOLIO FOL,334,False
+FOLIO FOL,335,False
+FOLIO FOL,336,False
+FOLIO FOL,337,False
+FOLIO FOL,338,False
+FOLIO FOL,339,True
+FOLIO FOL,340,True
+FOLIO FOL,341,False
+FOLIO FOL,342,True
+FOLIO FOL,343,True
+FOLIO FOL,344,False
+FOLIO FOL,345,False
+FOLIO FOL,346,False
+FOLIO FOL,347,False
+FOLIO FOL,348,False
+FOLIO FOL,349,False
+FOLIO FOL,350,False
+FOLIO FOL,351,False
+FOLIO FOL,352,False
+FOLIO FOL,353,True
+FOLIO FOL,354,True
+FOLIO FOL,355,True
+FOLIO FOL,356,True
+FOLIO FOL,357,False
+FOLIO FOL,358,True
+FOLIO FOL,359,True
+FOLIO FOL,360,True
+FOLIO FOL,361,False
+FOLIO FOL,362,False
+FOLIO FOL,363,False
+FOLIO FOL,364,False
+FOLIO FOL,365,True
+FOLIO FOL,366,False
+FOLIO FOL,367,True
+FOLIO FOL,368,False
+FOLIO FOL,369,False
+FOLIO FOL,370,True
+FOLIO FOL,371,True
+FOLIO FOL,372,False
+FOLIO FOL,373,False
+FOLIO FOL,374,False
+FOLIO FOL,375,False
+FOLIO FOL,376,False
+FOLIO FOL,377,False
+FOLIO FOL,378,False
+FOLIO FOL,379,False
+FOLIO FOL,380,True
+FOLIO FOL,381,False
+FOLIO FOL,382,True
+FOLIO FOL,383,False
+FOLIO FOL,384,True
+FOLIO FOL,385,True
+FOLIO FOL,386,False
+FOLIO FOL,387,False
+FOLIO FOL,388,False
+FOLIO FOL,389,False
+FOLIO FOL,390,False
+FOLIO FOL,391,False
+FOLIO FOL,392,False
+FOLIO FOL,393,False
+FOLIO FOL,394,True
+FOLIO FOL,395,False
+FOLIO FOL,396,True
+FOLIO FOL,397,False
+FOLIO FOL,398,False
+FOLIO FOL,399,True
+FOLIO FOL,400,True
+FOLIO FOL,401,False
+FOLIO FOL,402,True
+FOLIO FOL,403,False
+FOLIO FOL,404,True
+FOLIO FOL,405,False
+FOLIO FOL,406,False
+FOLIO FOL,407,False
+FOLIO FOL,408,False
+FOLIO FOL,409,True
+FOLIO FOL,410,False
+FOLIO FOL,411,True
+FOLIO FOL,412,True
+FOLIO FOL,413,False
+FOLIO FOL,414,False
+FOLIO FOL,415,False
+FOLIO FOL,416,False
+FOLIO FOL,417,False
+FOLIO FOL,418,False
+FOLIO FOL,419,False
+FOLIO FOL,420,False
+FOLIO FOL,421,False
+FOLIO FOL,422,True
+FOLIO FOL,423,True
+FOLIO FOL,424,False
+FOLIO FOL,425,True
+FOLIO FOL,426,False
+FOLIO FOL,427,False
+FOLIO FOL,428,True
+FOLIO FOL,429,False
+FOLIO FOL,430,False
+FOLIO FOL,431,False
+FOLIO FOL,432,True
+FOLIO FOL,433,False
+FOLIO FOL,434,True
+FOLIO FOL,435,True
+FOLIO FOL,436,False
+FOLIO FOL,437,False
+FOLIO FOL,438,True
+FOLIO FOL,439,True
+FOLIO FOL,440,True
+FOLIO FOL,441,False
+FOLIO FOL,442,True
+FOLIO FOL,443,False
+FOLIO FOL,444,True
+FOLIO FOL,445,False
+FOLIO FOL,446,True
+FOLIO FOL,447,False
+FOLIO FOL,448,True
+FOLIO FOL,449,True
+FOLIO FOL,450,False
+FOLIO FOL,451,False
+FOLIO FOL,452,False
+FOLIO FOL,453,False
+FOLIO FOL,454,False
+FOLIO FOL,455,False
+FOLIO FOL,456,False
+FOLIO FOL,457,False
+FOLIO FOL,458,True
+FOLIO FOL,459,False
+FOLIO FOL,460,False
+FOLIO FOL,461,True
+FOLIO FOL,462,False
+FOLIO FOL,463,True
+FOLIO FOL,464,False
+FOLIO FOL,465,False
+FOLIO FOL,466,False
+FOLIO FOL,467,False
+FOLIO FOL,468,False
+FOLIO FOL,469,False
+FOLIO FOL,470,False
+FOLIO FOL,471,True
+FOLIO FOL,472,True
+FOLIO FOL,473,False
+FOLIO FOL,474,False
+FOLIO FOL,475,False
+FOLIO FOL,476,True
+FOLIO FOL,477,True
+FOLIO FOL,478,False
+FOLIO FOL,479,True
+FOLIO FOL,480,False
+FOLIO FOL,481,True
+FOLIO FOL,482,False
+FOLIO FOL,483,True
+FOLIO FOL,484,True
+FOLIO FOL,485,False
+FOLIO FOL,486,True
+FOLIO FOL,487,False
+FOLIO FOL,488,False
+FOLIO FOL,489,True
+FOLIO FOL,490,False
+FOLIO FOL,491,False
+FOLIO FOL,492,True
+FOLIO FOL,493,False
+FOLIO FOL,494,False
+FOLIO FOL,495,False
+FOLIO FOL,496,True
+FOLIO FOL,497,False
+FOLIO FOL,498,True
+FOLIO FOL,499,False
+FOLIO FOL,500,False
+FOLIO FOL,501,True
+FOLIO FOL,502,False
+FOLIO FOL,503,False
+FOLIO FOL,504,False
+FOLIO FOL,505,False
+FOLIO FOL,506,True
+FOLIO FOL,507,True
+FOLIO FOL,508,False
+FOLIO FOL,509,False
+FOLIO FOL,510,True
+FOLIO FOL,511,False
+FOLIO FOL,512,False
+FOLIO FOL,513,True
+FOLIO FOL,514,False
+FOLIO FOL,515,True
+FOLIO FOL,516,False
+FOLIO FOL,517,False
+FOLIO FOL,518,False
+FOLIO FOL,519,True
+FOLIO FOL,520,True
+FOLIO FOL,521,False
+FOLIO FOL,522,True
+FOLIO FOL,523,False
+FOLIO FOL,524,True
+FOLIO FOL,525,False
+FOLIO FOL,526,False
+FOLIO FOL,527,False
+FOLIO FOL,528,True
+FOLIO FOL,529,True
+FOLIO FOL,530,False
+FOLIO FOL,531,False
+FOLIO FOL,532,False
+FOLIO FOL,533,True
+FOLIO FOL,534,False
+FOLIO FOL,535,True
+FOLIO FOL,536,True
+FOLIO FOL,537,True
+FOLIO FOL,538,False
+FOLIO FOL,539,False
+FOLIO FOL,540,False
+FOLIO FOL,541,False
+FOLIO FOL,542,False
+FOLIO FOL,543,False
+FOLIO FOL,544,True
+FOLIO FOL,545,True
+FOLIO FOL,546,True
+FOLIO FOL,547,True
+FOLIO FOL,548,False
+FOLIO FOL,549,False
+FOLIO FOL,550,False
+FOLIO FOL,551,False
+FOLIO FOL,552,True
+FOLIO FOL,553,True
+FOLIO FOL,554,True
+FOLIO FOL,555,False
+FOLIO FOL,556,True
+FOLIO FOL,557,False
+FOLIO FOL,558,False
+FOLIO FOL,559,False
+FOLIO FOL,560,True
+FOLIO FOL,561,False
+FOLIO FOL,562,True
+FOLIO FOL,563,False
+FOLIO FOL,564,False
+FOLIO FOL,565,True
+FOLIO FOL,566,True
+FOLIO FOL,567,True
+FOLIO FOL,568,False
+FOLIO FOL,569,True
+FOLIO FOL,570,True
+FOLIO FOL,571,False
+FOLIO FOL,572,False
+FOLIO FOL,573,True
+FOLIO FOL,574,False
+FOLIO FOL,575,True
+FOLIO FOL,576,True
+FOLIO FOL,577,False
+FOLIO FOL,578,False
+FOLIO FOL,579,False
+FOLIO FOL,580,False
+FOLIO FOL,581,True
+FOLIO FOL,582,True
+FOLIO FOL,583,False
+FOLIO FOL,584,True
+FOLIO FOL,585,False
+FOLIO FOL,586,False
+FOLIO FOL,587,False
+FOLIO FOL,588,False
+FOLIO FOL,589,True
+FOLIO FOL,590,False
+FOLIO FOL,591,False
+FOLIO FOL,592,True
+FOLIO FOL,593,False
+FOLIO FOL,594,False
+FOLIO FOL,595,True
+FOLIO FOL,596,True
+FOLIO FOL,597,True
+FOLIO FOL,598,False
+FOLIO FOL,599,False
+FOLIO FOL,600,True
+FOLIO FOL,601,False
+FOLIO FOL,602,False
+FOLIO FOL,603,False
+FOLIO FOL,604,False
+FOLIO FOL,605,False
+FOLIO FOL,606,False
+FOLIO FOL,607,False
+FOLIO FOL,608,True
+FOLIO FOL,609,False
+FOLIO FOL,610,True
+FOLIO FOL,611,True
+FOLIO FOL,612,False
+FOLIO FOL,613,False
+FOLIO FOL,614,True
+FOLIO FOL,615,False
+FOLIO FOL,616,False
+FOLIO FOL,617,False
+FOLIO FOL,618,False
+FOLIO FOL,619,False
+FOLIO FOL,620,False
+FOLIO FOL,621,False
+FOLIO FOL,622,False
+FOLIO FOL,623,False
+FOLIO FOL,624,True
+FOLIO FOL,625,False
+FOLIO FOL,626,True
+FOLIO FOL,627,True
+FOLIO FOL,628,False
+FOLIO FOL,629,True
+FOLIO FOL,630,False
+FOLIO FOL,631,False
+FOLIO FOL,632,False
+FOLIO FOL,633,True
+FOLIO FOL,634,True
+FOLIO FOL,635,False
+FOLIO FOL,636,True
+FOLIO FOL,637,True
+FOLIO FOL,638,False
+FOLIO FOL,639,False
+FOLIO FOL,640,True
+FOLIO FOL,641,False
+FOLIO FOL,642,True
+FOLIO FOL,643,True
+FOLIO FOL,644,False
+FOLIO FOL,645,True
+FOLIO FOL,646,False
+FOLIO FOL,647,False
+FOLIO FOL,648,False
+FOLIO FOL,649,False
+FOLIO FOL,650,True
+FOLIO FOL,651,False
+FOLIO FOL,652,True
+FOLIO FOL,653,True
+FOLIO FOL,654,False
+FOLIO FOL,655,True
+FOLIO FOL,656,False
+FOLIO FOL,657,False
+FOLIO FOL,658,False
+FOLIO FOL,659,True
+FOLIO FOL,660,True
+FOLIO FOL,661,False
+FOLIO FOL,662,True
+FOLIO FOL,663,True
+FOLIO FOL,664,False
+FOLIO FOL,665,True
+FOLIO FOL,666,False
+FOLIO FOL,667,False
+FOLIO FOL,668,True
+FOLIO FOL,669,False
+FOLIO FOL,670,True
+FOLIO FOL,671,False
+FOLIO FOL,672,False
+FOLIO FOL,673,True
+FOLIO FOL,674,False
+FOLIO FOL,675,True
+FOLIO FOL,676,False
+FOLIO FOL,677,False
+FOLIO FOL,678,False
+FOLIO FOL,679,False
+FOLIO FOL,680,True
+FOLIO FOL,681,True
+FOLIO FOL,682,True
+FOLIO FOL,683,False
+FOLIO FOL,684,True
+FOLIO FOL,685,False
+FOLIO FOL,686,True
+FOLIO FOL,687,True
+FOLIO FOL,688,True
+FOLIO FOL,689,False
+FOLIO FOL,690,True
+FOLIO FOL,691,False
+FOLIO FOL,692,True
+FOLIO FOL,693,True
+FOLIO FOL,694,False
+FOLIO FOL,695,True
+FOLIO FOL,696,False
+FOLIO FOL,697,True
+FOLIO FOL,698,False
+FOLIO FOL,699,False
+FOLIO FOL,700,True
+FOLIO FOL,701,False
+FOLIO FOL,702,False
+FOLIO FOL,703,False
+FOLIO FOL,704,False
+FOLIO FOL,705,False
+FOLIO FOL,706,True
+FOLIO FOL,707,False
+FOLIO FOL,708,True
+FOLIO FOL,709,False
+FOLIO FOL,710,True
+FOLIO FOL,711,True
+FOLIO FOL,712,False
+FOLIO FOL,713,False
+FOLIO FOL,714,True
+FOLIO FOL,715,False
+FOLIO FOL,716,True
+FOLIO FOL,717,True
+FOLIO FOL,718,False
+FOLIO FOL,719,True
+FOLIO FOL,720,False
+FOLIO FOL,721,False
+FOLIO FOL,722,False
+FOLIO FOL,723,True
+FOLIO FOL,724,False
+FOLIO FOL,725,True
+FOLIO FOL,726,True
+FOLIO FOL,727,False
+FOLIO FOL,728,True
+FOLIO FOL,729,True
+FOLIO FOL,730,False
+FOLIO FOL,731,True
+FOLIO FOL,732,True
+FOLIO FOL,733,False
+FOLIO FOL,734,True
+FOLIO FOL,735,True
+FOLIO FOL,736,False
+FOLIO FOL,737,False
+FOLIO FOL,738,False
+FOLIO FOL,739,False
+FOLIO FOL,740,False
+FOLIO FOL,741,True
+FOLIO FOL,742,False
+FOLIO FOL,743,False
+FOLIO FOL,744,False
+FOLIO FOL,745,False
+FOLIO FOL,746,False
+FOLIO FOL,747,True
+FOLIO FOL,748,False
+FOLIO FOL,749,False
+FOLIO FOL,750,False
+FOLIO FOL,751,True
+FOLIO FOL,752,False
+FOLIO FOL,753,False
+FOLIO FOL,754,True
+FOLIO FOL,755,True
+FOLIO FOL,756,False
+FOLIO FOL,757,False
+FOLIO FOL,758,False
+FOLIO FOL,759,True
+FOLIO FOL,760,False
+FOLIO FOL,761,False
+FOLIO FOL,762,False
+FOLIO FOL,763,False
+FOLIO FOL,764,True
+FOLIO FOL,765,True
+FOLIO FOL,766,False
+FOLIO FOL,767,False
+FOLIO FOL,768,False
+FOLIO FOL,769,False
+FOLIO FOL,770,False
+FOLIO FOL,771,True
+FOLIO FOL,772,True
+FOLIO FOL,773,True
+FOLIO FOL,774,True
+FOLIO FOL,775,True
+FOLIO FOL,776,False
+FOLIO FOL,777,True
+FOLIO FOL,778,True
+FOLIO FOL,779,True
+FOLIO FOL,780,True
+FOLIO FOL,781,True
+FOLIO FOL,782,False
+FOLIO FOL,783,False
+FOLIO FOL,784,False
+FOLIO FOL,785,True
+FOLIO FOL,786,True
+FOLIO FOL,787,False
+FOLIO FOL,788,True
+FOLIO FOL,789,False
+FOLIO FOL,790,False
+FOLIO FOL,791,False
+FOLIO FOL,792,False
+FOLIO FOL,793,True
+FOLIO FOL,794,False
+FOLIO FOL,795,False
+FOLIO FOL,796,False
+FOLIO FOL,797,True
+FOLIO FOL,798,False
+FOLIO FOL,799,True
+FOLIO FOL,800,False
+FOLIO FOL,801,True
+FOLIO FOL,802,False
+FOLIO FOL,803,False
+FOLIO FOL,804,False
+FOLIO FOL,805,False
+FOLIO FOL,806,False
+FOLIO FOL,807,False
+FOLIO FOL,808,False
+FOLIO FOL,809,False
+FOLIO FOL,810,False
+FOLIO FOL,811,False
+FOLIO FOL uncertain as False,1,True
+FOLIO FOL uncertain as False,2,False
+FOLIO FOL uncertain as False,3,False
+FOLIO FOL uncertain as False,4,False
+FOLIO FOL uncertain as False,5,False
+FOLIO FOL uncertain as False,6,True
+FOLIO FOL uncertain as False,7,False
+FOLIO FOL uncertain as False,8,False
+FOLIO FOL uncertain as False,9,False
+FOLIO FOL uncertain as False,10,True
+FOLIO FOL uncertain as False,11,False
+FOLIO FOL uncertain as False,12,False
+FOLIO FOL uncertain as False,13,False
+FOLIO FOL uncertain as False,14,False
+FOLIO FOL uncertain as False,15,False
+FOLIO FOL uncertain as False,16,True
+FOLIO FOL uncertain as False,17,True
+FOLIO FOL uncertain as False,18,False
+FOLIO FOL uncertain as False,19,False
+FOLIO FOL uncertain as False,20,False
+FOLIO FOL uncertain as False,21,True
+FOLIO FOL uncertain as False,22,True
+FOLIO FOL uncertain as False,23,False
+FOLIO FOL uncertain as False,24,True
+FOLIO FOL uncertain as False,25,False
+FOLIO FOL uncertain as False,26,True
+FOLIO FOL uncertain as False,27,False
+FOLIO FOL uncertain as False,28,False
+FOLIO FOL uncertain as False,29,False
+FOLIO FOL uncertain as False,30,True
+FOLIO FOL uncertain as False,31,False
+FOLIO FOL uncertain as False,32,False
+FOLIO FOL uncertain as False,33,False
+FOLIO FOL uncertain as False,34,True
+FOLIO FOL uncertain as False,35,False
+FOLIO FOL uncertain as False,36,True
+FOLIO FOL uncertain as False,37,True
+FOLIO FOL uncertain as False,38,True
+FOLIO FOL uncertain as False,39,True
+FOLIO FOL uncertain as False,40,True
+FOLIO FOL uncertain as False,41,False
+FOLIO FOL uncertain as False,42,True
+FOLIO FOL uncertain as False,43,False
+FOLIO FOL uncertain as False,44,False
+FOLIO FOL uncertain as False,45,False
+FOLIO FOL uncertain as False,46,False
+FOLIO FOL uncertain as False,47,False
+FOLIO FOL uncertain as False,48,False
+FOLIO FOL uncertain as False,49,False
+FOLIO FOL uncertain as False,50,False
+FOLIO FOL uncertain as False,51,False
+FOLIO FOL uncertain as False,52,False
+FOLIO FOL uncertain as False,53,True
+FOLIO FOL uncertain as False,54,False
+FOLIO FOL uncertain as False,55,True
+FOLIO FOL uncertain as False,56,False
+FOLIO FOL uncertain as False,57,False
+FOLIO FOL uncertain as False,58,True
+FOLIO FOL uncertain as False,59,False
+FOLIO FOL uncertain as False,60,True
+FOLIO FOL uncertain as False,61,False
+FOLIO FOL uncertain as False,62,False
+FOLIO FOL uncertain as False,63,True
+FOLIO FOL uncertain as False,64,True
+FOLIO FOL uncertain as False,65,False
+FOLIO FOL uncertain as False,66,True
+FOLIO FOL uncertain as False,67,False
+FOLIO FOL uncertain as False,68,False
+FOLIO FOL uncertain as False,69,False
+FOLIO FOL uncertain as False,70,True
+FOLIO FOL uncertain as False,71,True
+FOLIO FOL uncertain as False,72,False
+FOLIO FOL uncertain as False,73,False
+FOLIO FOL uncertain as False,74,False
+FOLIO FOL uncertain as False,75,False
+FOLIO FOL uncertain as False,76,False
+FOLIO FOL uncertain as False,77,False
+FOLIO FOL uncertain as False,78,False
+FOLIO FOL uncertain as False,79,True
+FOLIO FOL uncertain as False,80,True
+FOLIO FOL uncertain as False,81,False
+FOLIO FOL uncertain as False,82,False
+FOLIO FOL uncertain as False,83,True
+FOLIO FOL uncertain as False,84,False
+FOLIO FOL uncertain as False,85,False
+FOLIO FOL uncertain as False,86,False
+FOLIO FOL uncertain as False,87,False
+FOLIO FOL uncertain as False,88,False
+FOLIO FOL uncertain as False,89,True
+FOLIO FOL uncertain as False,90,True
+FOLIO FOL uncertain as False,91,True
+FOLIO FOL uncertain as False,92,True
+FOLIO FOL uncertain as False,93,True
+FOLIO FOL uncertain as False,94,True
+FOLIO FOL uncertain as False,95,False
+FOLIO FOL uncertain as False,96,False
+FOLIO FOL uncertain as False,97,True
+FOLIO FOL uncertain as False,98,False
+FOLIO FOL uncertain as False,99,False
+FOLIO FOL uncertain as False,100,False
+FOLIO FOL uncertain as False,101,False
+FOLIO FOL uncertain as False,102,True
+FOLIO FOL uncertain as False,103,False
+FOLIO FOL uncertain as False,104,False
+FOLIO FOL uncertain as False,105,True
+FOLIO FOL uncertain as False,106,False
+FOLIO FOL uncertain as False,107,True
+FOLIO FOL uncertain as False,108,True
+FOLIO FOL uncertain as False,109,False
+FOLIO FOL uncertain as False,110,False
+FOLIO FOL uncertain as False,111,False
+FOLIO FOL uncertain as False,112,False
+FOLIO FOL uncertain as False,113,True
+FOLIO FOL uncertain as False,114,True
+FOLIO FOL uncertain as False,115,True
+FOLIO FOL uncertain as False,116,True
+FOLIO FOL uncertain as False,117,True
+FOLIO FOL uncertain as False,118,True
+FOLIO FOL uncertain as False,119,True
+FOLIO FOL uncertain as False,120,False
+FOLIO FOL uncertain as False,121,False
+FOLIO FOL uncertain as False,122,False
+FOLIO FOL uncertain as False,123,False
+FOLIO FOL uncertain as False,124,True
+FOLIO FOL uncertain as False,125,False
+FOLIO FOL uncertain as False,126,False
+FOLIO FOL uncertain as False,127,False
+FOLIO FOL uncertain as False,128,True
+FOLIO FOL uncertain as False,129,False
+FOLIO FOL uncertain as False,130,True
+FOLIO FOL uncertain as False,131,False
+FOLIO FOL uncertain as False,132,True
+FOLIO FOL uncertain as False,133,False
+FOLIO FOL uncertain as False,134,False
+FOLIO FOL uncertain as False,135,True
+FOLIO FOL uncertain as False,136,True
+FOLIO FOL uncertain as False,137,False
+FOLIO FOL uncertain as False,138,False
+FOLIO FOL uncertain as False,139,False
+FOLIO FOL uncertain as False,140,False
+FOLIO FOL uncertain as False,141,False
+FOLIO FOL uncertain as False,142,False
+FOLIO FOL uncertain as False,143,True
+FOLIO FOL uncertain as False,144,False
+FOLIO FOL uncertain as False,145,False
+FOLIO FOL uncertain as False,146,False
+FOLIO FOL uncertain as False,147,False
+FOLIO FOL uncertain as False,148,True
+FOLIO FOL uncertain as False,149,False
+FOLIO FOL uncertain as False,150,True
+FOLIO FOL uncertain as False,151,True
+FOLIO FOL uncertain as False,152,False
+FOLIO FOL uncertain as False,153,False
+FOLIO FOL uncertain as False,154,False
+FOLIO FOL uncertain as False,155,False
+FOLIO FOL uncertain as False,156,False
+FOLIO FOL uncertain as False,157,True
+FOLIO FOL uncertain as False,158,True
+FOLIO FOL uncertain as False,159,False
+FOLIO FOL uncertain as False,160,True
+FOLIO FOL uncertain as False,161,True
+FOLIO FOL uncertain as False,162,False
+FOLIO FOL uncertain as False,163,False
+FOLIO FOL uncertain as False,164,False
+FOLIO FOL uncertain as False,165,True
+FOLIO FOL uncertain as False,166,False
+FOLIO FOL uncertain as False,167,False
+FOLIO FOL uncertain as False,168,False
+FOLIO FOL uncertain as False,169,False
+FOLIO FOL uncertain as False,170,True
+FOLIO FOL uncertain as False,171,False
+FOLIO FOL uncertain as False,172,False
+FOLIO FOL uncertain as False,173,False
+FOLIO FOL uncertain as False,174,False
+FOLIO FOL uncertain as False,175,False
+FOLIO FOL uncertain as False,176,False
+FOLIO FOL uncertain as False,177,False
+FOLIO FOL uncertain as False,178,False
+FOLIO FOL uncertain as False,179,False
+FOLIO FOL uncertain as False,180,False
+FOLIO FOL uncertain as False,181,True
+FOLIO FOL uncertain as False,182,False
+FOLIO FOL uncertain as False,183,False
+FOLIO FOL uncertain as False,184,False
+FOLIO FOL uncertain as False,185,True
+FOLIO FOL uncertain as False,186,True
+FOLIO FOL uncertain as False,187,False
+FOLIO FOL uncertain as False,188,False
+FOLIO FOL uncertain as False,189,False
+FOLIO FOL uncertain as False,190,False
+FOLIO FOL uncertain as False,191,True
+FOLIO FOL uncertain as False,192,True
+FOLIO FOL uncertain as False,193,True
+FOLIO FOL uncertain as False,194,True
+FOLIO FOL uncertain as False,195,True
+FOLIO FOL uncertain as False,196,False
+FOLIO FOL uncertain as False,197,False
+FOLIO FOL uncertain as False,198,True
+FOLIO FOL uncertain as False,199,True
+FOLIO FOL uncertain as False,200,False
+FOLIO FOL uncertain as False,201,False
+FOLIO FOL uncertain as False,202,False
+FOLIO FOL uncertain as False,203,False
+FOLIO FOL uncertain as False,204,True
+FOLIO FOL uncertain as False,205,False
+FOLIO FOL uncertain as False,206,False
+FOLIO FOL uncertain as False,207,False
+FOLIO FOL uncertain as False,208,True
+FOLIO FOL uncertain as False,209,True
+FOLIO FOL uncertain as False,210,False
+FOLIO FOL uncertain as False,211,False
+FOLIO FOL uncertain as False,212,False
+FOLIO FOL uncertain as False,213,False
+FOLIO FOL uncertain as False,214,False
+FOLIO FOL uncertain as False,215,False
+FOLIO FOL uncertain as False,216,False
+FOLIO FOL uncertain as False,217,True
+FOLIO FOL uncertain as False,218,True
+FOLIO FOL uncertain as False,219,False
+FOLIO FOL uncertain as False,220,True
+FOLIO FOL uncertain as False,221,False
+FOLIO FOL uncertain as False,222,False
+FOLIO FOL uncertain as False,223,False
+FOLIO FOL uncertain as False,224,False
+FOLIO FOL uncertain as False,225,False
+FOLIO FOL uncertain as False,226,True
+FOLIO FOL uncertain as False,227,False
+FOLIO FOL uncertain as False,228,False
+FOLIO FOL uncertain as False,229,False
+FOLIO FOL uncertain as False,230,False
+FOLIO FOL uncertain as False,231,False
+FOLIO FOL uncertain as False,232,False
+FOLIO FOL uncertain as False,233,False
+FOLIO FOL uncertain as False,234,False
+FOLIO FOL uncertain as False,235,True
+FOLIO FOL uncertain as False,236,False
+FOLIO FOL uncertain as False,237,True
+FOLIO FOL uncertain as False,238,False
+FOLIO FOL uncertain as False,239,False
+FOLIO FOL uncertain as False,240,False
+FOLIO FOL uncertain as False,241,False
+FOLIO FOL uncertain as False,242,False
+FOLIO FOL uncertain as False,243,False
+FOLIO FOL uncertain as False,244,False
+FOLIO FOL uncertain as False,245,False
+FOLIO FOL uncertain as False,246,False
+FOLIO FOL uncertain as False,247,False
+FOLIO FOL uncertain as False,248,False
+FOLIO FOL uncertain as False,249,True
+FOLIO FOL uncertain as False,250,False
+FOLIO FOL uncertain as False,251,False
+FOLIO FOL uncertain as False,252,False
+FOLIO FOL uncertain as False,253,True
+FOLIO FOL uncertain as False,254,False
+FOLIO FOL uncertain as False,255,False
+FOLIO FOL uncertain as False,256,True
+FOLIO FOL uncertain as False,257,False
+FOLIO FOL uncertain as False,258,False
+FOLIO FOL uncertain as False,259,False
+FOLIO FOL uncertain as False,260,False
+FOLIO FOL uncertain as False,261,True
+FOLIO FOL uncertain as False,262,False
+FOLIO FOL uncertain as False,263,True
+FOLIO FOL uncertain as False,264,False
+FOLIO FOL uncertain as False,265,False
+FOLIO FOL uncertain as False,266,False
+FOLIO FOL uncertain as False,267,False
+FOLIO FOL uncertain as False,268,False
+FOLIO FOL uncertain as False,269,False
+FOLIO FOL uncertain as False,270,True
+FOLIO FOL uncertain as False,271,False
+FOLIO FOL uncertain as False,272,False
+FOLIO FOL uncertain as False,273,True
+FOLIO FOL uncertain as False,274,False
+FOLIO FOL uncertain as False,275,False
+FOLIO FOL uncertain as False,276,False
+FOLIO FOL uncertain as False,277,False
+FOLIO FOL uncertain as False,278,False
+FOLIO FOL uncertain as False,279,False
+FOLIO FOL uncertain as False,280,False
+FOLIO FOL uncertain as False,281,False
+FOLIO FOL uncertain as False,282,False
+FOLIO FOL uncertain as False,283,True
+FOLIO FOL uncertain as False,284,False
+FOLIO FOL uncertain as False,285,False
+FOLIO FOL uncertain as False,286,False
+FOLIO FOL uncertain as False,287,True
+FOLIO FOL uncertain as False,288,False
+FOLIO FOL uncertain as False,289,False
+FOLIO FOL uncertain as False,290,False
+FOLIO FOL uncertain as False,291,False
+FOLIO FOL uncertain as False,292,False
+FOLIO FOL uncertain as False,293,False
+FOLIO FOL uncertain as False,294,False
+FOLIO FOL uncertain as False,295,True
+FOLIO FOL uncertain as False,296,False
+FOLIO FOL uncertain as False,297,False
+FOLIO FOL uncertain as False,298,False
+FOLIO FOL uncertain as False,299,True
+FOLIO FOL uncertain as False,300,True
+FOLIO FOL uncertain as False,301,False
+FOLIO FOL uncertain as False,302,False
+FOLIO FOL uncertain as False,303,Unresolved
+FOLIO FOL uncertain as False,304,Unresolved
+FOLIO FOL uncertain as False,305,Unresolved
+FOLIO FOL uncertain as False,306,False
+FOLIO FOL uncertain as False,307,True
+FOLIO FOL uncertain as False,308,False
+FOLIO FOL uncertain as False,309,True
+FOLIO FOL uncertain as False,310,True
+FOLIO FOL uncertain as False,311,False
+FOLIO FOL uncertain as False,312,True
+FOLIO FOL uncertain as False,313,False
+FOLIO FOL uncertain as False,314,False
+FOLIO FOL uncertain as False,315,False
+FOLIO FOL uncertain as False,316,False
+FOLIO FOL uncertain as False,317,False
+FOLIO FOL uncertain as False,318,False
+FOLIO FOL uncertain as False,319,False
+FOLIO FOL uncertain as False,320,True
+FOLIO FOL uncertain as False,321,False
+FOLIO FOL uncertain as False,322,False
+FOLIO FOL uncertain as False,323,False
+FOLIO FOL uncertain as False,324,False
+FOLIO FOL uncertain as False,325,False
+FOLIO FOL uncertain as False,326,False
+FOLIO FOL uncertain as False,327,True
+FOLIO FOL uncertain as False,328,False
+FOLIO FOL uncertain as False,329,False
+FOLIO FOL uncertain as False,330,True
+FOLIO FOL uncertain as False,331,False
+FOLIO FOL uncertain as False,332,True
+FOLIO FOL uncertain as False,333,True
+FOLIO FOL uncertain as False,334,False
+FOLIO FOL uncertain as False,335,False
+FOLIO FOL uncertain as False,336,False
+FOLIO FOL uncertain as False,337,False
+FOLIO FOL uncertain as False,338,False
+FOLIO FOL uncertain as False,339,False
+FOLIO FOL uncertain as False,340,False
+FOLIO FOL uncertain as False,341,False
+FOLIO FOL uncertain as False,342,False
+FOLIO FOL uncertain as False,343,False
+FOLIO FOL uncertain as False,344,False
+FOLIO FOL uncertain as False,345,True
+FOLIO FOL uncertain as False,346,False
+FOLIO FOL uncertain as False,347,True
+FOLIO FOL uncertain as False,348,False
+FOLIO FOL uncertain as False,349,False
+FOLIO FOL uncertain as False,350,False
+FOLIO FOL uncertain as False,351,False
+FOLIO FOL uncertain as False,352,False
+FOLIO FOL uncertain as False,353,False
+FOLIO FOL uncertain as False,354,False
+FOLIO FOL uncertain as False,355,True
+FOLIO FOL uncertain as False,356,False
+FOLIO FOL uncertain as False,357,False
+FOLIO FOL uncertain as False,358,True
+FOLIO FOL uncertain as False,359,False
+FOLIO FOL uncertain as False,360,False
+FOLIO FOL uncertain as False,361,False
+FOLIO FOL uncertain as False,362,True
+FOLIO FOL uncertain as False,363,False
+FOLIO FOL uncertain as False,364,False
+FOLIO FOL uncertain as False,365,False
+FOLIO FOL uncertain as False,366,True
+FOLIO FOL uncertain as False,367,False
+FOLIO FOL uncertain as False,368,False
+FOLIO FOL uncertain as False,369,False
+FOLIO FOL uncertain as False,370,False
+FOLIO FOL uncertain as False,371,False
+FOLIO FOL uncertain as False,372,False
+FOLIO FOL uncertain as False,373,False
+FOLIO FOL uncertain as False,374,False
+FOLIO FOL uncertain as False,375,False
+FOLIO FOL uncertain as False,376,True
+FOLIO FOL uncertain as False,377,True
+FOLIO FOL uncertain as False,378,False
+FOLIO FOL uncertain as False,379,True
+FOLIO FOL uncertain as False,380,False
+FOLIO FOL uncertain as False,381,True
+FOLIO FOL uncertain as False,382,False
+FOLIO FOL uncertain as False,383,False
+FOLIO FOL uncertain as False,384,False
+FOLIO FOL uncertain as False,385,False
+FOLIO FOL uncertain as False,386,False
+FOLIO FOL uncertain as False,387,False
+FOLIO FOL uncertain as False,388,False
+FOLIO FOL uncertain as False,389,False
+FOLIO FOL uncertain as False,390,False
+FOLIO FOL uncertain as False,391,True
+FOLIO FOL uncertain as False,392,False
+FOLIO FOL uncertain as False,393,False
+FOLIO FOL uncertain as False,394,False
+FOLIO FOL uncertain as False,395,True
+FOLIO FOL uncertain as False,396,False
+FOLIO FOL uncertain as False,397,False
+FOLIO FOL uncertain as False,398,False
+FOLIO FOL uncertain as False,399,False
+FOLIO FOL uncertain as False,400,False
+FOLIO FOL uncertain as False,401,True
+FOLIO FOL uncertain as False,402,True
+FOLIO FOL uncertain as False,403,False
+FOLIO FOL uncertain as False,404,False
+FOLIO FOL uncertain as False,405,True
+FOLIO FOL uncertain as False,406,True
+FOLIO FOL uncertain as False,407,False
+FOLIO FOL uncertain as False,408,False
+FOLIO FOL uncertain as False,409,False
+FOLIO FOL uncertain as False,410,False
+FOLIO FOL uncertain as False,411,True
+FOLIO FOL uncertain as False,412,False
+FOLIO FOL uncertain as False,413,False
+FOLIO FOL uncertain as False,414,True
+FOLIO FOL uncertain as False,415,False
+FOLIO FOL uncertain as False,416,True
+FOLIO FOL uncertain as False,417,False
+FOLIO FOL uncertain as False,418,False
+FOLIO FOL uncertain as False,419,False
+FOLIO FOL uncertain as False,420,False
+FOLIO FOL uncertain as False,421,True
+FOLIO FOL uncertain as False,422,False
+FOLIO FOL uncertain as False,423,False
+FOLIO FOL uncertain as False,424,True
+FOLIO FOL uncertain as False,425,False
+FOLIO FOL uncertain as False,426,False
+FOLIO FOL uncertain as False,427,False
+FOLIO FOL uncertain as False,428,True
+FOLIO FOL uncertain as False,429,False
+FOLIO FOL uncertain as False,430,False
+FOLIO FOL uncertain as False,431,False
+FOLIO FOL uncertain as False,432,False
+FOLIO FOL uncertain as False,433,True
+FOLIO FOL uncertain as False,434,False
+FOLIO FOL uncertain as False,435,False
+FOLIO FOL uncertain as False,436,False
+FOLIO FOL uncertain as False,437,False
+FOLIO FOL uncertain as False,438,False
+FOLIO FOL uncertain as False,439,False
+FOLIO FOL uncertain as False,440,True
+FOLIO FOL uncertain as False,441,False
+FOLIO FOL uncertain as False,442,False
+FOLIO FOL uncertain as False,443,False
+FOLIO FOL uncertain as False,444,False
+FOLIO FOL uncertain as False,445,True
+FOLIO FOL uncertain as False,446,False
+FOLIO FOL uncertain as False,447,False
+FOLIO FOL uncertain as False,448,False
+FOLIO FOL uncertain as False,449,False
+FOLIO FOL uncertain as False,450,True
+FOLIO FOL uncertain as False,451,True
+FOLIO FOL uncertain as False,452,True
+FOLIO FOL uncertain as False,453,True
+FOLIO FOL uncertain as False,454,True
+FOLIO FOL uncertain as False,455,False
+FOLIO FOL uncertain as False,456,True
+FOLIO FOL uncertain as False,457,False
+FOLIO FOL uncertain as False,458,False
+FOLIO FOL uncertain as False,459,False
+FOLIO FOL uncertain as False,460,False
+FOLIO FOL uncertain as False,461,False
+FOLIO FOL uncertain as False,462,True
+FOLIO FOL uncertain as False,463,False
+FOLIO FOL uncertain as False,464,False
+FOLIO FOL uncertain as False,465,True
+FOLIO FOL uncertain as False,466,False
+FOLIO FOL uncertain as False,467,True
+FOLIO FOL uncertain as False,468,True
+FOLIO FOL uncertain as False,469,False
+FOLIO FOL uncertain as False,470,True
+FOLIO FOL uncertain as False,471,True
+FOLIO FOL uncertain as False,472,False
+FOLIO FOL uncertain as False,473,False
+FOLIO FOL uncertain as False,474,False
+FOLIO FOL uncertain as False,475,False
+FOLIO FOL uncertain as False,476,False
+FOLIO FOL uncertain as False,477,False
+FOLIO FOL uncertain as False,478,False
+FOLIO FOL uncertain as False,479,True
+FOLIO FOL uncertain as False,480,False
+FOLIO FOL uncertain as False,481,False
+FOLIO FOL uncertain as False,482,False
+FOLIO FOL uncertain as False,483,False
+FOLIO FOL uncertain as False,484,False
+FOLIO FOL uncertain as False,485,False
+FOLIO FOL uncertain as False,486,True
+FOLIO FOL uncertain as False,487,False
+FOLIO FOL uncertain as False,488,True
+FOLIO FOL uncertain as False,489,False
+FOLIO FOL uncertain as False,490,False
+FOLIO FOL uncertain as False,491,False
+FOLIO FOL uncertain as False,492,True
+FOLIO FOL uncertain as False,493,False
+FOLIO FOL uncertain as False,494,False
+FOLIO FOL uncertain as False,495,False
+FOLIO FOL uncertain as False,496,False
+FOLIO FOL uncertain as False,497,False
+FOLIO FOL uncertain as False,498,True
+FOLIO FOL uncertain as False,499,False
+FOLIO FOL uncertain as False,500,False
+FOLIO FOL uncertain as False,501,False
+FOLIO FOL uncertain as False,502,False
+FOLIO FOL uncertain as False,503,False
+FOLIO FOL uncertain as False,504,True
+FOLIO FOL uncertain as False,505,False
+FOLIO FOL uncertain as False,506,False
+FOLIO FOL uncertain as False,507,True
+FOLIO FOL uncertain as False,508,True
+FOLIO FOL uncertain as False,509,False
+FOLIO FOL uncertain as False,510,True
+FOLIO FOL uncertain as False,511,True
+FOLIO FOL uncertain as False,512,False
+FOLIO FOL uncertain as False,513,False
+FOLIO FOL uncertain as False,514,False
+FOLIO FOL uncertain as False,515,False
+FOLIO FOL uncertain as False,516,False
+FOLIO FOL uncertain as False,517,False
+FOLIO FOL uncertain as False,518,False
+FOLIO FOL uncertain as False,519,False
+FOLIO FOL uncertain as False,520,False
+FOLIO FOL uncertain as False,521,False
+FOLIO FOL uncertain as False,522,False
+FOLIO FOL uncertain as False,523,False
+FOLIO FOL uncertain as False,524,False
+FOLIO FOL uncertain as False,525,True
+FOLIO FOL uncertain as False,526,True
+FOLIO FOL uncertain as False,527,False
+FOLIO FOL uncertain as False,528,False
+FOLIO FOL uncertain as False,529,True
+FOLIO FOL uncertain as False,530,True
+FOLIO FOL uncertain as False,531,False
+FOLIO FOL uncertain as False,532,True
+FOLIO FOL uncertain as False,533,False
+FOLIO FOL uncertain as False,534,False
+FOLIO FOL uncertain as False,535,False
+FOLIO FOL uncertain as False,536,True
+FOLIO FOL uncertain as False,537,True
+FOLIO FOL uncertain as False,538,False
+FOLIO FOL uncertain as False,539,False
+FOLIO FOL uncertain as False,540,False
+FOLIO FOL uncertain as False,541,False
+FOLIO FOL uncertain as False,542,False
+FOLIO FOL uncertain as False,543,True
+FOLIO FOL uncertain as False,544,False
+FOLIO FOL uncertain as False,545,False
+FOLIO FOL uncertain as False,546,False
+FOLIO FOL uncertain as False,547,False
+FOLIO FOL uncertain as False,548,False
+FOLIO FOL uncertain as False,549,False
+FOLIO FOL uncertain as False,550,True
+FOLIO FOL uncertain as False,551,False
+FOLIO FOL uncertain as False,552,False
+FOLIO FOL uncertain as False,553,True
+FOLIO FOL uncertain as False,554,False
+FOLIO FOL uncertain as False,555,False
+FOLIO FOL uncertain as False,556,False
+FOLIO FOL uncertain as False,557,True
+FOLIO FOL uncertain as False,558,False
+FOLIO FOL uncertain as False,559,True
+FOLIO FOL uncertain as False,560,False
+FOLIO FOL uncertain as False,561,False
+FOLIO FOL uncertain as False,562,False
+FOLIO FOL uncertain as False,563,False
+FOLIO FOL uncertain as False,564,False
+FOLIO FOL uncertain as False,565,False
+FOLIO FOL uncertain as False,566,False
+FOLIO FOL uncertain as False,567,False
+FOLIO FOL uncertain as False,568,False
+FOLIO FOL uncertain as False,569,False
+FOLIO FOL uncertain as False,570,False
+FOLIO FOL uncertain as False,571,False
+FOLIO FOL uncertain as False,572,False
+FOLIO FOL uncertain as False,573,False
+FOLIO FOL uncertain as False,574,False
+FOLIO FOL uncertain as False,575,False
+FOLIO FOL uncertain as False,576,True
+FOLIO FOL uncertain as False,577,False
+FOLIO FOL uncertain as False,578,False
+FOLIO FOL uncertain as False,579,True
+FOLIO FOL uncertain as False,580,False
+FOLIO FOL uncertain as False,581,True
+FOLIO FOL uncertain as False,582,True
+FOLIO FOL uncertain as False,583,False
+FOLIO FOL uncertain as False,584,False
+FOLIO FOL uncertain as False,585,False
+FOLIO FOL uncertain as False,586,False
+FOLIO FOL uncertain as False,587,False
+FOLIO FOL uncertain as False,588,False
+FOLIO FOL uncertain as False,589,False
+FOLIO FOL uncertain as False,590,False
+FOLIO FOL uncertain as False,591,False
+FOLIO FOL uncertain as False,592,False
+FOLIO FOL uncertain as False,593,False
+FOLIO FOL uncertain as False,594,True
+FOLIO FOL uncertain as False,595,False
+FOLIO FOL uncertain as False,596,False
+FOLIO FOL uncertain as False,597,True
+FOLIO FOL uncertain as False,598,False
+FOLIO FOL uncertain as False,599,False
+FOLIO FOL uncertain as False,600,False
+FOLIO FOL uncertain as False,601,False
+FOLIO FOL uncertain as False,602,True
+FOLIO FOL uncertain as False,603,True
+FOLIO FOL uncertain as False,604,False
+FOLIO FOL uncertain as False,605,True
+FOLIO FOL uncertain as False,606,False
+FOLIO FOL uncertain as False,607,False
+FOLIO FOL uncertain as False,608,True
+FOLIO FOL uncertain as False,609,False
+FOLIO FOL uncertain as False,610,False
+FOLIO FOL uncertain as False,611,False
+FOLIO FOL uncertain as False,612,False
+FOLIO FOL uncertain as False,613,False
+FOLIO FOL uncertain as False,614,True
+FOLIO FOL uncertain as False,615,False
+FOLIO FOL uncertain as False,616,True
+FOLIO FOL uncertain as False,617,False
+FOLIO FOL uncertain as False,618,True
+FOLIO FOL uncertain as False,619,False
+FOLIO FOL uncertain as False,620,False
+FOLIO FOL uncertain as False,621,False
+FOLIO FOL uncertain as False,622,True
+FOLIO FOL uncertain as False,623,False
+FOLIO FOL uncertain as False,624,False
+FOLIO FOL uncertain as False,625,False
+FOLIO FOL uncertain as False,626,False
+FOLIO FOL uncertain as False,627,False
+FOLIO FOL uncertain as False,628,False
+FOLIO FOL uncertain as False,629,False
+FOLIO FOL uncertain as False,630,False
+FOLIO FOL uncertain as False,631,False
+FOLIO FOL uncertain as False,632,False
+FOLIO FOL uncertain as False,633,False
+FOLIO FOL uncertain as False,634,True
+FOLIO FOL uncertain as False,635,False
+FOLIO FOL uncertain as False,636,True
+FOLIO FOL uncertain as False,637,False
+FOLIO FOL uncertain as False,638,True
+FOLIO FOL uncertain as False,639,False
+FOLIO FOL uncertain as False,640,False
+FOLIO FOL uncertain as False,641,False
+FOLIO FOL uncertain as False,642,True
+FOLIO FOL uncertain as False,643,True
+FOLIO FOL uncertain as False,644,False
+FOLIO FOL uncertain as False,645,False
+FOLIO FOL uncertain as False,646,False
+FOLIO FOL uncertain as False,647,False
+FOLIO FOL uncertain as False,648,False
+FOLIO FOL uncertain as False,649,True
+FOLIO FOL uncertain as False,650,False
+FOLIO FOL uncertain as False,651,False
+FOLIO FOL uncertain as False,652,False
+FOLIO FOL uncertain as False,653,True
+FOLIO FOL uncertain as False,654,True
+FOLIO FOL uncertain as False,655,False
+FOLIO FOL uncertain as False,656,False
+FOLIO FOL uncertain as False,657,False
+FOLIO FOL uncertain as False,658,True
+FOLIO FOL uncertain as False,659,False
+FOLIO FOL uncertain as False,660,True
+FOLIO FOL uncertain as False,661,True
+FOLIO FOL uncertain as False,662,False
+FOLIO FOL uncertain as False,663,True
+FOLIO FOL uncertain as False,664,False
+FOLIO FOL uncertain as False,665,True
+FOLIO FOL uncertain as False,666,False
+FOLIO FOL uncertain as False,667,True
+FOLIO FOL uncertain as False,668,False
+FOLIO FOL uncertain as False,669,False
+FOLIO FOL uncertain as False,670,True
+FOLIO FOL uncertain as False,671,True
+FOLIO FOL uncertain as False,672,True
+FOLIO FOL uncertain as False,673,False
+FOLIO FOL uncertain as False,674,True
+FOLIO FOL uncertain as False,675,False
+FOLIO FOL uncertain as False,676,True
+FOLIO FOL uncertain as False,677,False
+FOLIO FOL uncertain as False,678,False
+FOLIO FOL uncertain as False,679,False
+FOLIO FOL uncertain as False,680,False
+FOLIO FOL uncertain as False,681,False
+FOLIO FOL uncertain as False,682,False
+FOLIO FOL uncertain as False,683,False
+FOLIO FOL uncertain as False,684,False
+FOLIO FOL uncertain as False,685,False
+FOLIO FOL uncertain as False,686,False
+FOLIO FOL uncertain as False,687,False
+FOLIO FOL uncertain as False,688,True
+FOLIO FOL uncertain as False,689,False
+FOLIO FOL uncertain as False,690,False
+FOLIO FOL uncertain as False,691,False
+FOLIO FOL uncertain as False,692,False
+FOLIO FOL uncertain as False,693,True
+FOLIO FOL uncertain as False,694,False
+FOLIO FOL uncertain as False,695,False
+FOLIO FOL uncertain as False,696,True
+FOLIO FOL uncertain as False,697,False
+FOLIO FOL uncertain as False,698,False
+FOLIO FOL uncertain as False,699,False
+FOLIO FOL uncertain as False,700,False
+FOLIO FOL uncertain as False,701,False
+FOLIO FOL uncertain as False,702,False
+FOLIO FOL uncertain as False,703,False
+FOLIO FOL uncertain as False,704,False
+FOLIO FOL uncertain as False,705,False
+FOLIO FOL uncertain as False,706,False
+FOLIO FOL uncertain as False,707,False
+FOLIO FOL uncertain as False,708,True
+FOLIO FOL uncertain as False,709,True
+FOLIO FOL uncertain as False,710,False
+FOLIO FOL uncertain as False,711,False
+FOLIO FOL uncertain as False,712,False
+FOLIO FOL uncertain as False,713,False
+FOLIO FOL uncertain as False,714,True
+FOLIO FOL uncertain as False,715,False
+FOLIO FOL uncertain as False,716,True
+FOLIO FOL uncertain as False,717,False
+FOLIO FOL uncertain as False,718,True
+FOLIO FOL uncertain as False,719,False
+FOLIO FOL uncertain as False,720,False
+FOLIO FOL uncertain as False,721,False
+FOLIO FOL uncertain as False,722,True
+FOLIO FOL uncertain as False,723,False
+FOLIO FOL uncertain as False,724,False
+FOLIO FOL uncertain as False,725,True
+FOLIO FOL uncertain as False,726,True
+FOLIO FOL uncertain as False,727,False
+FOLIO FOL uncertain as False,728,True
+FOLIO FOL uncertain as False,729,False
+FOLIO FOL uncertain as False,730,False
+FOLIO FOL uncertain as False,731,False
+FOLIO FOL uncertain as False,732,False
+FOLIO FOL uncertain as False,733,True
+FOLIO FOL uncertain as False,734,False
+FOLIO FOL uncertain as False,735,False
+FOLIO FOL uncertain as False,736,True
+FOLIO FOL uncertain as False,737,False
+FOLIO FOL uncertain as False,738,False
+FOLIO FOL uncertain as False,739,False
+FOLIO FOL uncertain as False,740,True
+FOLIO FOL uncertain as False,741,False
+FOLIO FOL uncertain as False,742,True
+FOLIO FOL uncertain as False,743,False
+FOLIO FOL uncertain as False,744,False
+FOLIO FOL uncertain as False,745,False
+FOLIO FOL uncertain as False,746,False
+FOLIO FOL uncertain as False,747,False
+FOLIO FOL uncertain as False,748,False
+FOLIO FOL uncertain as False,749,True
+FOLIO FOL uncertain as False,750,False
+FOLIO FOL uncertain as False,751,False
+FOLIO FOL uncertain as False,752,False
+FOLIO FOL uncertain as False,753,False
+FOLIO FOL uncertain as False,754,True
+FOLIO FOL uncertain as False,755,True
+FOLIO FOL uncertain as False,756,False
+FOLIO FOL uncertain as False,757,False
+FOLIO FOL uncertain as False,758,False
+FOLIO FOL uncertain as False,759,False
+FOLIO FOL uncertain as False,760,True
+FOLIO FOL uncertain as False,761,False
+FOLIO FOL uncertain as False,762,False
+FOLIO FOL uncertain as False,763,False
+FOLIO FOL uncertain as False,764,True
+FOLIO FOL uncertain as False,765,False
+FOLIO FOL uncertain as False,766,False
+FOLIO FOL uncertain as False,767,True
+FOLIO FOL uncertain as False,768,False
+FOLIO FOL uncertain as False,769,False
+FOLIO FOL uncertain as False,770,False
+FOLIO FOL uncertain as False,771,False
+FOLIO FOL uncertain as False,772,False
+FOLIO FOL uncertain as False,773,True
+FOLIO FOL uncertain as False,774,True
+FOLIO FOL uncertain as False,775,False
+FOLIO FOL uncertain as False,776,False
+FOLIO FOL uncertain as False,777,False
+FOLIO FOL uncertain as False,778,True
+FOLIO FOL uncertain as False,779,False
+FOLIO FOL uncertain as False,780,True
+FOLIO FOL uncertain as False,781,True
+FOLIO FOL uncertain as False,782,False
+FOLIO FOL uncertain as False,783,False
+FOLIO FOL uncertain as False,784,False
+FOLIO FOL uncertain as False,785,True
+FOLIO FOL uncertain as False,786,True
+FOLIO FOL uncertain as False,787,False
+FOLIO FOL uncertain as False,788,False
+FOLIO FOL uncertain as False,789,False
+FOLIO FOL uncertain as False,790,False
+FOLIO FOL uncertain as False,791,False
+FOLIO FOL uncertain as False,792,False
+FOLIO FOL uncertain as False,793,False
+FOLIO FOL uncertain as False,794,False
+FOLIO FOL uncertain as False,795,True
+FOLIO FOL uncertain as False,796,False
+FOLIO FOL uncertain as False,797,True
+FOLIO FOL uncertain as False,798,True
+FOLIO FOL uncertain as False,799,True
+FOLIO FOL uncertain as False,800,False
+FOLIO FOL uncertain as False,801,False
+FOLIO FOL uncertain as False,802,False
+FOLIO FOL uncertain as False,803,False
+FOLIO FOL uncertain as False,804,False
+FOLIO FOL uncertain as False,805,False
+FOLIO FOL uncertain as False,806,False
+FOLIO FOL uncertain as False,807,False
+FOLIO FOL uncertain as False,808,True
+FOLIO FOL uncertain as False,809,False
+FOLIO FOL uncertain as False,810,True
+FOLIO FOL uncertain as False,811,False
+FOLIO FOL uncertain as False,812,True
+FOLIO FOL uncertain as False,813,False
+FOLIO FOL uncertain as False,814,True
+FOLIO FOL uncertain as False,815,True
+FOLIO FOL uncertain as False,816,False
+FOLIO FOL uncertain as False,817,False
+FOLIO FOL uncertain as False,818,False
+FOLIO FOL uncertain as False,819,False
+FOLIO FOL uncertain as False,820,False
+FOLIO FOL uncertain as False,821,False
+FOLIO FOL uncertain as False,822,False
+FOLIO FOL uncertain as False,823,True
+FOLIO FOL uncertain as False,824,False
+FOLIO FOL uncertain as False,825,True
+FOLIO FOL uncertain as False,826,True
+FOLIO FOL uncertain as False,827,False
+FOLIO FOL uncertain as False,828,False
+FOLIO FOL uncertain as False,829,True
+FOLIO FOL uncertain as False,830,False
+FOLIO FOL uncertain as False,831,False
+FOLIO FOL uncertain as False,832,False
+FOLIO FOL uncertain as False,833,True
+FOLIO FOL uncertain as False,834,False
+FOLIO FOL uncertain as False,835,False
+FOLIO FOL uncertain as False,836,True
+FOLIO FOL uncertain as False,837,False
+FOLIO FOL uncertain as False,838,True
+FOLIO FOL uncertain as False,839,False
+FOLIO FOL uncertain as False,840,False
+FOLIO FOL uncertain as False,841,True
+FOLIO FOL uncertain as False,842,True
+FOLIO FOL uncertain as False,843,True
+FOLIO FOL uncertain as False,844,True
+FOLIO FOL uncertain as False,845,False
+FOLIO FOL uncertain as False,846,False
+FOLIO FOL uncertain as False,847,True
+FOLIO FOL uncertain as False,848,True
+FOLIO FOL uncertain as False,849,False
+FOLIO FOL uncertain as False,850,False
+FOLIO FOL uncertain as False,851,False
+FOLIO FOL uncertain as False,852,False
+FOLIO FOL uncertain as False,853,True
+FOLIO FOL uncertain as False,854,False
+FOLIO FOL uncertain as False,855,False
+FOLIO FOL uncertain as False,856,False
+FOLIO FOL uncertain as False,857,True
+FOLIO FOL uncertain as False,858,False
+FOLIO FOL uncertain as False,859,True
+FOLIO FOL uncertain as False,860,False
+FOLIO FOL uncertain as False,861,False
+FOLIO FOL uncertain as False,862,False
+FOLIO FOL uncertain as False,863,False
+FOLIO FOL uncertain as False,864,False
+FOLIO FOL uncertain as False,865,False
+FOLIO FOL uncertain as False,866,False
+FOLIO FOL uncertain as False,867,True
+FOLIO FOL uncertain as False,868,False
+FOLIO FOL uncertain as False,869,True
+FOLIO FOL uncertain as False,870,False
+FOLIO FOL uncertain as False,871,True
+FOLIO FOL uncertain as False,872,False
+FOLIO FOL uncertain as False,873,False
+FOLIO FOL uncertain as False,874,False
+FOLIO FOL uncertain as False,875,False
+FOLIO FOL uncertain as False,876,True
+FOLIO FOL uncertain as False,877,False
+FOLIO FOL uncertain as False,878,False
+FOLIO FOL uncertain as False,879,False
+FOLIO FOL uncertain as False,880,True
+FOLIO FOL uncertain as False,881,False
+FOLIO FOL uncertain as False,882,False
+FOLIO FOL uncertain as False,883,True
+FOLIO FOL uncertain as False,884,True
+FOLIO FOL uncertain as False,885,True
+FOLIO FOL uncertain as False,886,False
+FOLIO FOL uncertain as False,887,False
+FOLIO FOL uncertain as False,888,False
+FOLIO FOL uncertain as False,889,True
+FOLIO FOL uncertain as False,890,False
+FOLIO FOL uncertain as False,891,False
+FOLIO FOL uncertain as False,892,False
+FOLIO FOL uncertain as False,893,False
+FOLIO FOL uncertain as False,894,False
+FOLIO FOL uncertain as False,895,False
+FOLIO FOL uncertain as False,896,False
+FOLIO FOL uncertain as False,897,False
+FOLIO FOL uncertain as False,898,False
+FOLIO FOL uncertain as False,899,True
+FOLIO FOL uncertain as False,900,False
+FOLIO FOL uncertain as False,901,False
+FOLIO FOL uncertain as False,902,False
+FOLIO FOL uncertain as False,903,True
+FOLIO FOL uncertain as False,904,False
+FOLIO FOL uncertain as False,905,True
+FOLIO FOL uncertain as False,906,False
+FOLIO FOL uncertain as False,907,False
+FOLIO FOL uncertain as False,908,False
+FOLIO FOL uncertain as False,909,True
+FOLIO FOL uncertain as False,910,False
+FOLIO FOL uncertain as False,911,False
+FOLIO FOL uncertain as False,912,False
+FOLIO FOL uncertain as False,913,False
+FOLIO FOL uncertain as False,914,False
+FOLIO FOL uncertain as False,915,False
+FOLIO FOL uncertain as False,916,False
+FOLIO FOL uncertain as False,917,False
+FOLIO FOL uncertain as False,918,False
+FOLIO FOL uncertain as False,919,False
+FOLIO FOL uncertain as False,920,False
+FOLIO FOL uncertain as False,921,True
+FOLIO FOL uncertain as False,922,False
+FOLIO FOL uncertain as False,923,False
+FOLIO FOL uncertain as False,924,True
+FOLIO FOL uncertain as False,925,True
+FOLIO FOL uncertain as False,926,False
+FOLIO FOL uncertain as False,927,True
+FOLIO FOL uncertain as False,928,False
+FOLIO FOL uncertain as False,929,False
+FOLIO FOL uncertain as False,930,True
+FOLIO FOL uncertain as False,931,False
+FOLIO FOL uncertain as False,932,False
+FOLIO FOL uncertain as False,933,False
+FOLIO FOL uncertain as False,934,False
+FOLIO FOL uncertain as False,935,False
+FOLIO FOL uncertain as False,936,False
+FOLIO FOL uncertain as False,937,False
+FOLIO FOL uncertain as False,938,True
+FOLIO FOL uncertain as False,939,False
+FOLIO FOL uncertain as False,940,False
+FOLIO FOL uncertain as False,941,False
+FOLIO FOL uncertain as False,942,True
+FOLIO FOL uncertain as False,943,False
+FOLIO FOL uncertain as False,944,False
+FOLIO FOL uncertain as False,945,True
+FOLIO FOL uncertain as False,946,False
+FOLIO FOL uncertain as False,947,True
+FOLIO FOL uncertain as False,948,False
+FOLIO FOL uncertain as False,949,False
+FOLIO FOL uncertain as False,950,False
+FOLIO FOL uncertain as False,951,True
+FOLIO FOL uncertain as False,952,False
+FOLIO FOL uncertain as False,953,True
+FOLIO FOL uncertain as False,954,True
+FOLIO FOL uncertain as False,955,False
+FOLIO FOL uncertain as False,956,False
+FOLIO FOL uncertain as False,957,False
+FOLIO FOL uncertain as False,958,True
+FOLIO FOL uncertain as False,959,False
+FOLIO FOL uncertain as False,960,False
+FOLIO FOL uncertain as False,961,False
+FOLIO FOL uncertain as False,962,False
+FOLIO FOL uncertain as False,963,True
+FOLIO FOL uncertain as False,964,False
+FOLIO FOL uncertain as False,965,False
+FOLIO FOL uncertain as False,966,True
+FOLIO FOL uncertain as False,967,False
+FOLIO FOL uncertain as False,968,True
+FOLIO FOL uncertain as False,969,False
+FOLIO FOL uncertain as False,970,False
+FOLIO FOL uncertain as False,971,True
+FOLIO FOL uncertain as False,972,False
+FOLIO FOL uncertain as False,973,True
+FOLIO FOL uncertain as False,974,False
+FOLIO FOL uncertain as False,975,False
+FOLIO FOL uncertain as False,976,False
+FOLIO FOL uncertain as False,977,False
+FOLIO FOL uncertain as False,978,False
+FOLIO FOL uncertain as False,979,True
+FOLIO FOL uncertain as False,980,True
+FOLIO FOL uncertain as False,981,False
+FOLIO FOL uncertain as False,982,True
+FOLIO FOL uncertain as False,983,True
+FOLIO FOL uncertain as False,984,False
+FOLIO FOL uncertain as False,985,True
+FOLIO FOL uncertain as False,986,False
+FOLIO FOL uncertain as False,987,False
+FOLIO FOL uncertain as False,988,True
+FOLIO FOL uncertain as False,989,False
+FOLIO FOL uncertain as False,990,False
+FOLIO FOL uncertain as False,991,True
+FOLIO FOL uncertain as False,992,False
+FOLIO FOL uncertain as False,993,False
+FOLIO FOL uncertain as False,994,False
+FOLIO FOL uncertain as False,995,False
+FOLIO FOL uncertain as False,996,True
+FOLIO FOL uncertain as False,997,False
+FOLIO FOL uncertain as False,998,False
+FOLIO FOL uncertain as False,999,True
+FOLIO FOL uncertain as False,1000,False
+FOLIO FOL uncertain as False,1001,False
+FOLIO FOL uncertain as False,1002,False
+FOLIO FOL uncertain as False,1003,False
+FOLIO FOL uncertain as False,1004,False
+FOLIO FOL uncertain as False,1005,False
+FOLIO FOL uncertain as False,1006,False
+FOLIO FOL uncertain as False,1007,True
+FOLIO FOL uncertain as False,1008,True
+FOLIO FOL uncertain as False,1009,False
+FOLIO FOL uncertain as False,1010,False
+FOLIO FOL uncertain as False,1011,True
+FOLIO FOL uncertain as False,1012,False
+FOLIO FOL uncertain as False,1013,False
+FOLIO FOL uncertain as False,1014,True
+FOLIO FOL uncertain as False,1015,False
+FOLIO FOL uncertain as False,1016,False
+FOLIO FOL uncertain as False,1017,True
+FOLIO FOL uncertain as False,1018,False
+FOLIO FOL uncertain as False,1019,False
+FOLIO FOL uncertain as False,1020,True
+FOLIO FOL uncertain as False,1021,True
+FOLIO FOL uncertain as False,1022,False
+FOLIO FOL uncertain as False,1023,True
+FOLIO FOL uncertain as False,1024,False
+FOLIO FOL uncertain as False,1025,False
+FOLIO FOL uncertain as False,1026,True
+FOLIO FOL uncertain as False,1027,True
+FOLIO FOL uncertain as False,1028,False
+FOLIO FOL uncertain as False,1029,False
+FOLIO FOL uncertain as False,1030,True
+FOLIO FOL uncertain as False,1031,False
+FOLIO FOL uncertain as False,1032,False
+FOLIO FOL uncertain as False,1033,True
+FOLIO FOL uncertain as False,1034,False
+FOLIO FOL uncertain as False,1035,True
+FOLIO FOL uncertain as False,1036,False
+FOLIO FOL uncertain as False,1037,False
+FOLIO FOL uncertain as False,1038,False
+FOLIO FOL uncertain as False,1039,True
+FOLIO FOL uncertain as False,1040,False
+FOLIO FOL uncertain as False,1041,False
+FOLIO FOL uncertain as False,1042,False
+FOLIO FOL uncertain as False,1043,False
+FOLIO FOL uncertain as False,1044,False
+FOLIO FOL uncertain as False,1045,False
+FOLIO FOL uncertain as False,1046,False
+FOLIO FOL uncertain as False,1047,False
+FOLIO FOL uncertain as False,1048,True
+FOLIO FOL uncertain as False,1049,False
+FOLIO FOL uncertain as False,1050,False
+FOLIO FOL uncertain as False,1051,False
+FOLIO FOL uncertain as False,1052,True
+FOLIO FOL uncertain as False,1053,False
+FOLIO FOL uncertain as False,1054,False
+FOLIO FOL uncertain as False,1055,True
+FOLIO FOL uncertain as False,1056,True
+FOLIO FOL uncertain as False,1057,False
+FOLIO FOL uncertain as False,1058,False
+FOLIO FOL uncertain as False,1059,False
+FOLIO FOL uncertain as False,1060,False
+FOLIO FOL uncertain as False,1061,True
+FOLIO FOL uncertain as False,1062,False
+FOLIO FOL uncertain as False,1063,False
+FOLIO FOL uncertain as False,1064,False
+FOLIO FOL uncertain as False,1065,False
+FOLIO FOL uncertain as False,1066,True
+FOLIO FOL uncertain as False,1067,True
+FOLIO FOL uncertain as False,1068,False
+FOLIO FOL uncertain as False,1069,False
+FOLIO FOL uncertain as False,1070,True
+FOLIO FOL uncertain as False,1071,False
+FOLIO FOL uncertain as False,1072,False
+FOLIO FOL uncertain as False,1073,False
+FOLIO FOL uncertain as False,1074,False
+FOLIO FOL uncertain as False,1075,True
+FOLIO FOL uncertain as False,1076,False
+FOLIO FOL uncertain as False,1077,False
+FOLIO FOL uncertain as False,1078,True
+FOLIO FOL uncertain as False,1079,True
+FOLIO FOL uncertain as False,1080,False
+FOLIO FOL uncertain as False,1081,True
+FOLIO FOL uncertain as False,1082,False
+FOLIO FOL uncertain as False,1083,True
+FOLIO FOL uncertain as False,1084,False
+FOLIO FOL uncertain as False,1085,True
+FOLIO FOL uncertain as False,1086,True
+FOLIO FOL uncertain as False,1087,False
+FOLIO FOL uncertain as False,1088,False
+FOLIO FOL uncertain as False,1089,True
+FOLIO FOL uncertain as False,1090,True
+FOLIO FOL uncertain as False,1091,False
+FOLIO FOL uncertain as False,1092,False
+FOLIO FOL uncertain as False,1093,False
+FOLIO FOL uncertain as False,1094,False
+FOLIO FOL uncertain as False,1095,False
+FOLIO FOL uncertain as False,1096,False
+FOLIO FOL uncertain as False,1097,False
+FOLIO FOL uncertain as False,1098,False
+FOLIO FOL uncertain as False,1099,True
+FOLIO FOL uncertain as False,1100,False
+FOLIO FOL uncertain as False,1101,False
+FOLIO FOL uncertain as False,1102,False
+FOLIO FOL uncertain as False,1103,False
+FOLIO FOL uncertain as False,1104,False
+FOLIO FOL uncertain as False,1105,False
+FOLIO FOL uncertain as False,1106,False
+FOLIO FOL uncertain as False,1107,True
+FOLIO FOL uncertain as False,1108,False
+FOLIO FOL uncertain as False,1109,False
+FOLIO FOL uncertain as False,1110,False
+FOLIO FOL uncertain as False,1111,False
+FOLIO FOL uncertain as False,1112,False
+FOLIO FOL uncertain as False,1113,True
+FOLIO FOL uncertain as False,1114,False
+FOLIO FOL uncertain as False,1115,False
+FOLIO FOL uncertain as False,1116,False
+FOLIO FOL uncertain as False,1117,True
+FOLIO FOL uncertain as False,1118,False
+FOLIO FOL uncertain as False,1119,False
+FOLIO FOL uncertain as False,1120,True
+FOLIO FOL uncertain as False,1121,False
+FOLIO FOL uncertain as False,1122,False
+FOLIO FOL uncertain as False,1123,False
+FOLIO FOL uncertain as False,1124,False
+FOLIO FOL uncertain as False,1125,False
+FOLIO FOL uncertain as False,1126,False
+FOLIO FOL uncertain as False,1127,True
+FOLIO FOL uncertain as False,1128,False
+FOLIO FOL uncertain as False,1129,False
+FOLIO FOL uncertain as False,1130,False
+FOLIO FOL uncertain as False,1131,False
+FOLIO FOL uncertain as False,1132,False
+FOLIO FOL uncertain as False,1133,True
+FOLIO FOL uncertain as False,1134,False
+FOLIO FOL uncertain as False,1135,False
+FOLIO FOL uncertain as False,1136,True
+FOLIO FOL uncertain as False,1137,False
+FOLIO FOL uncertain as False,1138,False
+FOLIO FOL uncertain as False,1139,False
+FOLIO FOL uncertain as False,1140,False
+FOLIO FOL uncertain as False,1141,False
+FOLIO FOL uncertain as False,1142,False
+FOLIO FOL uncertain as False,1143,False
+FOLIO FOL uncertain as False,1144,True
+FOLIO FOL uncertain as False,1145,True
+FOLIO FOL uncertain as False,1146,False
+FOLIO FOL uncertain as False,1147,False
+FOLIO FOL uncertain as False,1148,True
+FOLIO FOL uncertain as False,1149,True
+FOLIO FOL uncertain as False,1150,True
+FOLIO FOL uncertain as False,1151,True
+FOLIO FOL uncertain as False,1152,False
+FOLIO FOL uncertain as False,1153,False
+FOLIO FOL uncertain as False,1154,False
+FOLIO FOL uncertain as False,1155,False
+FOLIO FOL uncertain as False,1156,True
+FOLIO FOL uncertain as False,1157,False
+FOLIO FOL uncertain as False,1158,True
+FOLIO FOL uncertain as False,1159,True
+FOLIO FOL uncertain as False,1160,True
+FOLIO FOL uncertain as False,1161,True
+FOLIO FOL uncertain as False,1162,True
+FOLIO FOL uncertain as False,1163,False
+FOLIO FOL uncertain as False,1164,False
+FOLIO FOL uncertain as False,1165,False
+FOLIO FOL uncertain as False,1166,False
+FOLIO FOL uncertain as False,1167,False
+FOLIO FOL uncertain as False,1168,True
+FOLIO FOL uncertain as False,1169,True
+FOLIO FOL uncertain as False,1170,False
+FOLIO FOL uncertain as False,1171,False
+FOLIO FOL uncertain as False,1172,True
+FOLIO FOL uncertain as False,1173,False
+FOLIO FOL uncertain as False,1174,False
+FOLIO FOL uncertain as False,1175,False
+FOLIO FOL uncertain as False,1176,False
+FOLIO FOL uncertain as False,1177,False
+FOLIO FOL uncertain as False,1178,False
+FOLIO FOL uncertain as False,1179,True
+FOLIO FOL uncertain as False,1180,False
+FOLIO FOL uncertain as False,1181,False
+FOLIO FOL uncertain as False,1182,False
+FOLIO FOL uncertain as False,1183,False
+FOLIO FOL uncertain as False,1184,True
+FOLIO FOL uncertain as False,1185,False
+FOLIO FOL uncertain as False,1186,True
+FOLIO FOL uncertain as False,1187,False
+FOLIO FOL uncertain as False,1188,False
+FOLIO FOL uncertain as False,1189,False
+FOLIO FOL uncertain as False,1190,True
+FOLIO FOL uncertain as False,1191,False
+FOLIO FOL uncertain as False,1192,False
+FOLIO FOL uncertain as False,1193,False
+FOLIO FOL uncertain as False,1194,False
+FOLIO FOL uncertain as False,1195,False
+FOLIO FOL uncertain as False,1196,False
+FOLIO FOL uncertain as False,1197,False
+FOLIO FOL uncertain as False,1198,False
+FOLIO FOL uncertain as False,1199,False
+FOLIO FOL uncertain as False,1200,False
+FOLIO FOL uncertain as False,1201,False
+FOLIO FOL uncertain as False,1202,False
+FOLIO FOL uncertain as False,1203,False
+FOLIO FOL uncertain as False,1204,False
